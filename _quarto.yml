@@ -2,20 +2,39 @@ project:
   type: website
 
 website:
-  title: "GSO-ME.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Geotechnical Student Organization"
+  favicon: img/favicon.png
+  
+  # navbar:
+  #   left:
+  #     - text: Home
+  #       href: index.qmd
+  #     - text: Members
+  #       href: members.qmd
+  #     - text: Resources
+  #       href: resources.qmd
+  #     - text: Events
+  #       href: events.qmd
+  #     - text: Gallery
+  #       href: gallery.qmd
+  #     - text: News
+  #       href: news.qmd
+  #     - text: Donate
+  #       href: donate.qmd
+  #     - text: Contact
+  #       href: contact.qmd
+  #       
+  #   right:
+  #     - icon: instagram
+  #       href: https://instagram.com/gso_umaine
+  #     - icon: linkedin
+  #       href: https://linkedin.com/gso-me
+  #     - icon: github
+  #       href: https://github.com/sabacyr
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    include-in-header: header.html

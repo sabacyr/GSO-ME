@@ -1,0 +1,24 @@
+---
+title: Donate
+---
+
+## Support the Geotechnical Student Organization
+
+Your donation helps support members directly by funding workshops, professional development events, guest speakers, conference travel, and outreach activities.
+
+## How your donation is used
+- Technical workshops and training
+- Guest speakers and seminars
+- Student travel to conferences
+- Community and outreach events
+
+<div class="donate-cta">
+
+<form action="https://www.paypal.com/donate" method="post" target="_blank">
+  <input type="hidden" name="hosted_button_id" value="PASTE_YOUR_BUTTON_ID_HERE">
+  <button type="submit" class="hero-btn">
+    Donate via PayPal
+  </button>
+</form>
+
+</div>

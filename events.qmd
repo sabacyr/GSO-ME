@@ -1,0 +1,26 @@
+---
+title: "Events"
+---
+
+## Upcoming Events 
+
+### Event 1
+Description
+
+### Event 2
+Description
+
+### Event 3
+Description
+
+## Past Events 
+
+### Event 1
+Description
+
+### Event 2
+Description
+
+### Event 3
+Description
+
