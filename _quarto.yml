@@ -4,33 +4,6 @@ project:
 website:
   title: "Geotechnical Student Organization"
   favicon: img/favicon.png
-  
-  # navbar:
-  #   left:
-  #     - text: Home
-  #       href: index.qmd
-  #     - text: Members
-  #       href: members.qmd
-  #     - text: Resources
-  #       href: resources.qmd
-  #     - text: Events
-  #       href: events.qmd
-  #     - text: Gallery
-  #       href: gallery.qmd
-  #     - text: News
-  #       href: news.qmd
-  #     - text: Donate
-  #       href: donate.qmd
-  #     - text: Contact
-  #       href: contact.qmd
-  #       
-  #   right:
-  #     - icon: instagram
-  #       href: https://instagram.com/gso_umaine
-  #     - icon: linkedin
-  #       href: https://linkedin.com/gso-me
-  #     - icon: github
-  #       href: https://github.com/sabacyr
 
 format:
   html:
@@ -38,3 +11,13 @@ format:
     css: styles.css
     toc: true
     include-in-header: header.html
+
+
+
+  #   right:
+  #     - icon: instagram
+  #       href: https://instagram.com/gso_umaine
+  #     - icon: linkedin
+  #       href: https://linkedin.com/gso-me
+  #     - icon: github
+  #       href: https://github.com/sabacyr

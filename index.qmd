@@ -4,24 +4,42 @@ page-layout: full
 toc: true
 ---
 
+<div class="hero">
+  <img src="Logo/Full.png" alt="GSO Logo" class="hero-logo">
+
+  <div class="intro-band">
+    <p>
+      A student-led organization at the University of Maine advancing geotechnical engineering through hands-on learning, professional connection, and community.
+    </p>
+  </div>
+
+  <a class="hero-btn" href="#about">Learn More</a>
+</div>
 
 
-## About Us {#about}
+## About GSO
 
-The Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering. We focus on hands-on learning, professional development, and building a strong, supportive community.
+The Geotechnical Student Organization is a student-run organization at the University of Maine focused on hands-on learning, professional development, and building a strong community in geotechnical engineering.
 
-GSO provides opportunities beyond the classroom through workshops, technical seminars, field experiences, and collaborative events. These activities help students connect theory with practice, learn new tools and methods, and gain exposure to real-world geotechnical applications.
+</div>
 
-We emphasize professional connection and community building by bringing together students, faculty, and industry professionals. Through collaborations with organizations such as COPRI and the Geo-Institute of ASCE, GSO supports student participation in conferences, workshops, and competitions while fostering an inclusive, low-pressure environment for learning and connection.
 
-## Mission {#mission}
+<!-- ## About Us {#about} -->
 
-Our mission is to provide a platform for geotechnical engineering students to connect, learn, and grow. We create a supportive environment that enhances academic and professional development through technical events, workshops, and networking opportunities that expose students to real-world challenges and solutions. We foster a culture of collaboration, innovation, and excellence that prepares members to be effective and impactful geotechnical engineers and to contribute to sustainable communities.
+<!-- The Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering. We focus on hands-on learning, professional development, and building a strong, supportive community. -->
 
-## Vision {#vision}
+<!-- GSO provides opportunities beyond the classroom through workshops, technical seminars, field experiences, and collaborative events. These activities help students connect theory with practice, learn new tools and methods, and gain exposure to real-world geotechnical applications. -->
 
-To be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence.
+<!-- We emphasize professional connection and community building by bringing together students, faculty, and industry professionals. Through collaborations with organizations such as COPRI and the Geo-Institute of ASCE, GSO supports student participation in conferences, workshops, and competitions while fostering an inclusive, low-pressure environment for learning and connection. -->
 
-## Goals {#goals}
+<!-- ## Mission {#mission} -->
 
-To promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering.
+<!-- Our mission is to provide a platform for geotechnical engineering students to connect, learn, and grow. We create a supportive environment that enhances academic and professional development through technical events, workshops, and networking opportunities that expose students to real-world challenges and solutions. We foster a culture of collaboration, innovation, and excellence that prepares members to be effective and impactful geotechnical engineers and to contribute to sustainable communities. -->
+
+<!-- ## Vision {#vision} -->
+
+<!-- To be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence. -->
+
+<!-- ## Goals {#goals} -->
+
+<!-- To promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering. -->
