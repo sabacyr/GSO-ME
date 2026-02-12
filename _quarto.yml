@@ -8,7 +8,7 @@ website:
     background: "#47587f"
     foreground: "#ffffff"
     left: |
-      © 2024 Geotechnical Student Organization  
+      © 2026 Geotechnical Student Organization  
       University of Maine
     
     center: |
@@ -44,12 +44,3 @@ format:
             });
           </script>
 
-
-
-  #   right:
-  #     - icon: instagram
-  #       href: https://instagram.com/gso_umaine
-  #     - icon: linkedin
-  #       href: https://linkedin.com/gso-me
-  #     - icon: github
-  #       href: https://github.com/sabacyr

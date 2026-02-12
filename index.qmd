@@ -5,7 +5,7 @@ toc: false
 ---
 
 ::: {.hero}
-<img src="Logo/Full.png" alt="GSO Logo" class="hero-logo">
+<img src="Images/Logo/Full.png" alt="GSO Logo" class="hero-logo">
 
 
 ::: {.intro-band}
@@ -22,7 +22,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 ::: {.about-split .about-margin-button #about}
 
 <div class="about-image">
-  <img src="Images/IMG_4867.jpg" alt="GSO members">
+  <img src="Images/Gallery Photos/IMG_4867.jpg" alt="GSO members">
 </div>
 
 <div class="about-text">
@@ -52,7 +52,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 </div>
 
 <div class="mission-image" data-aos="fade-right" data-aos-duration="1800">
-  <img src="Images/IMG_4855.jpg" alt="Mission image">
+  <img src="Images/Gallery Photos/IMG_4855.jpg" alt="Mission image">
 </div>
 :::
 
@@ -60,7 +60,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 ::: {.vision-split .vision-margin-button #vision}
 
 <div class="vision-image" data-aos="fade-left" data-aos-duration="1800">
-  <img src="Images/IMG_4853.jpg" alt="GSO members">
+  <img src="Images/Gallery Photos/IMG_4853.jpg" alt="GSO members">
 </div>
 
 <div class="vision-text" data-aos="fade-left" data-aos-duration="1800">
@@ -88,7 +88,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 </div>
 
 <div class="goal-image" data-aos="fade-right" data-aos-duration="1800">
-  <img src="Images/Picture1.jpg" alt="goal image">
+  <img src="Images/Gallery Photos/Picture1.jpg" alt="goal image">
 </div>
 
 :::
@@ -97,28 +97,28 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 
 ::: {.tile}
 <a href="members.qmd">
-  <img src="Tiles/Members.png" class="tile-img" alt="Members">
+  <img src="Images/Tiles/Members.png" class="tile-img" alt="Members">
   <div class="tile-content">Who are we?</div>
 </a>
 :::
 
 ::: {.tile}
 <a href="resources.qmd">
-  <img src="Tiles/Resources.png" class="tile-img" alt="Resources">
+  <img src="Images/Tiles/Resources.png" class="tile-img" alt="Resources">
   <div class="tile-content">Looking for workshop materials and presentations?</div>
 </a>
 :::
 
 ::: {.tile}
 <a href="events.qmd">
-  <img src="Tiles/Events.png" class="tile-img" alt="Events">
+  <img src="Images/Tiles/Events.png" class="tile-img" alt="Events">
   <div class="tile-content">Want to know more about our upcoming events?</div>
 </a>
 :::
 
 ::: {.tile}
 <a href="gallery.qmd">
-  <img src="Tiles/Gallery.png" class="tile-img" alt="Gallery">
+  <img src="Images/Tiles/Gallery.png" class="tile-img" alt="Gallery">
   <div class="tile-content">Take a look down memory lane!</div>
 </a>
 :::

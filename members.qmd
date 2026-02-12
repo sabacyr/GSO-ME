@@ -3,16 +3,325 @@ title: "Members"
 ---
 
 ## Join GSO
-Brief paragraph on who can join and why.
+Joining the Geotechnical Student Organization (GSO) offers students an opportunity to extend their learning beyond the classroom and engage directly with the field of geotechnical engineering. GSO provides hands on workshops, technical seminars, field experiences, and collaborative events that help bridge the gap between theory and practice. Through these activities, members gain exposure to real world challenges, develop practical skills, and become more confident applying engineering concepts in professional settings.
+
+GSO also creates a supportive and inclusive environment where students can build meaningful connections with peers, faculty, and industry professionals. By collaborating with organizations such as the Geo Institute of ASCE, COPRI, undergraduate organizations such as ASCE Student Chapter and Chi Epsilon, the Civil Engineering Honor Society, the organization supports participation in conferences, competitions, and professional development events. Whether you are an undergraduate exploring geotechnical engineering or a graduate or undergraduate student refining your expertise, GSO provides a platform to connect, learn, and grow while preparing to become an effective and impactful engineer.
+
+
+## Presidency
+
+::: {.member-grid}
+
+::: {.member-card}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Andres Cordoba Ordonez
+**President (Jul 2025–Current)**
+
+PhD Student, Geotechnical Engineering  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Sebastian Montoya Vargas
+**Past President (Jan 2025–Jul 2025)**
+
+PhD in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Saba Cyr
+**Past President (Jan 2023–Jan 2025)**
+
+PhD Candidate, Geotechnical Engineering  
+Research focus: Remote Sensing, Landslides, and Mitigation.
+
+Email: saba.molaei@maine.edu  
+[LinkedIn](#)
+:::
+
+:::
+
+:::
+
 
 ## Executive Board
-Names and roles.
 
-## Current Members
-Idk who to add honestly
+::: {.member-grid}
 
-## Alumni
-List of alumnis and their photos and names jobs or contact info?
+::: {.member-card}
+![](Images/Members/name.jpg){.member-photo}
 
-## Member Benefits
-Bullet list.
+::: {.member-info}
+### Zeynab Nazari
+**Vice President (Jul 2025–Current)**
+
+PhD Student, Geotechnical Engineering  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Saba Cyr
+**Vice President (Jul 2025–Current)**
+
+PhD Candidate, Geotechnical Engineering  
+Research focus: Remote Sensing, Landslides, and Mitigation.
+
+Email: saba.molaei@maine.edu  
+[LinkedIn](#)
+:::
+
+:::
+
+:::
+
+
+
+## Members
+
+::: {.member-grid}
+
+::: {.member-card}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Johan Mira
+**Graduate Student**
+
+MSc Student, Geotechnical Engineering  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Temitope Babatunde
+**Graduate Student**
+
+MSc in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Danilo Botero Lopez
+**Graduate Student**
+
+PhD in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Sebastian Carvajal
+**Graduate Student**
+
+MSc in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Andres Espinosa
+**Graduate Student**
+
+MSc in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Camilo Fernandez
+**Graduate Student**
+
+MSc in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Rakesh Pandit
+**Graduate Student**
+
+MSc in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Abdul Aziz Umar
+**Graduate Student**
+
+MSc in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Peta Fifield
+**Graduate Student**
+
+MSc in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Babak Mahmoudi
+**Graduate Student**
+
+PhD in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### SK Belal Hossen
+**Graduate Student**
+
+PhD in Geotechnical Engineering, E.I.T  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+:::
+
+
+
+
+## Faculty
+
+::: {.member-grid}
+
+::: {.member-card}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Aaron Gallant
+**Faculty Advisor**
+
+PhD, P.E., Geotechnical Engineering  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+::: {.member-card .alumni}
+![](Images/Members/name.jpg){.member-photo}
+
+::: {.member-info}
+### Luis Zambrano Cruzatty
+**Former Faculty Member**
+
+PhD in Geotechnical Engineering  
+Research focus: To be added.
+
+Email: insert email  
+[LinkedIn](#)
+:::
+
+:::
+
+:::
