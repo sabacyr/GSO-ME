@@ -21,55 +21,6 @@
     "text": "Past Events\n\nEvent 1\nDescription\n\n\nEvent 2\nDescription\n\n\nEvent 3\nDescription"
   },
   {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "gallery",
-    "section": "",
-    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
-  },
-  {
-    "objectID": "gallery.html#professional-events",
-    "href": "gallery.html#professional-events",
-    "title": "gallery",
-    "section": "",
-    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
-  },
-  {
-    "objectID": "gallery.html#socials",
-    "href": "gallery.html#socials",
-    "title": "gallery",
-    "section": "Socials",
-    "text": "Socials"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
-  },
-  {
-    "objectID": "news.html#upcoming-events",
-    "href": "news.html#upcoming-events",
-    "title": "Resources",
-    "section": "",
-    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
-  },
-  {
-    "objectID": "news.html#past-events",
-    "href": "news.html#past-events",
-    "title": "Resources",
-    "section": "Past Events",
-    "text": "Past Events\n\nEvent 1\nDescription\n\n\nEvent 2\nDescription\n\n\nEvent 3\nDescription"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Get in Touch\n\n\nHave a question about GSO, workshops, or membership?\nSend us a message and we’ll get back to you.\n\n\n\n\n\n\n  \n    \n    \n    \n  \n\n  \n    \n  \n\n  \n    Send Message"
-  },
-  {
     "objectID": "members.html",
     "href": "members.html",
     "title": "Members",
@@ -112,6 +63,55 @@
     "text": "Member Benefits\nBullet list."
   },
   {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "gallery",
+    "section": "",
+    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
+  },
+  {
+    "objectID": "gallery.html#professional-events",
+    "href": "gallery.html#professional-events",
+    "title": "gallery",
+    "section": "",
+    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
+  },
+  {
+    "objectID": "gallery.html#socials",
+    "href": "gallery.html#socials",
+    "title": "gallery",
+    "section": "Socials",
+    "text": "Socials"
+  },
+  {
+    "objectID": "donate.html",
+    "href": "donate.html",
+    "title": "Donate",
+    "section": "",
+    "text": "Your donation helps support members directly by funding workshops, professional development events, guest speakers, conference travel, and outreach activities."
+  },
+  {
+    "objectID": "donate.html#support-the-geotechnical-student-organization",
+    "href": "donate.html#support-the-geotechnical-student-organization",
+    "title": "Donate",
+    "section": "",
+    "text": "Your donation helps support members directly by funding workshops, professional development events, guest speakers, conference travel, and outreach activities."
+  },
+  {
+    "objectID": "donate.html#how-your-donation-is-used",
+    "href": "donate.html#how-your-donation-is-used",
+    "title": "Donate",
+    "section": "How your donation is used",
+    "text": "How your donation is used\n\nTechnical workshops and training\nGuest speakers and seminars\nStudent travel to conferences\nCommunity and outreach events\n\n\n\n  Donate via PayPal"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Get in Touch\n\n\nHave a question about GSO, workshops, or membership?\nSend us a message and we’ll get back to you.\n\n\n\n\n\n\n  \n    \n    \n    \n  \n\n  \n    \n  \n\n  \n    Send Message"
+  },
+  {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events",
@@ -137,34 +137,27 @@
     "href": "index.html",
     "title": "Geotechnical Student Organization",
     "section": "",
-    "text": "&lt;p&gt;\n  A student-led organization at the University of Maine advancing geotechnical engineering through hands-on learning, professional connection, and community.\n&lt;/p&gt;\n\nLearn More"
+    "text": "Welcome to Geotechnical Student Organization at The University Of Maine\n\n\nLearn More\n\n\n\n\n\n\n\n\n\nAbout Us\n\nThe Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering.\n\n\n\n\n\n\n\nMission\n\nOur mission is to connect, support, and develop geotechnical engineering students through hands-on learning, professional engagement, and meaningful collaboration, preparing them to become skilled, innovative engineers who contribute to sustainable communities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVision\n\nOur vision is to be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence.\n\n\n\n\n\n\n\nGoal\n\nOur goal is to promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering.\n\n\n\n\n\n\n\n\n \n\nWho are we?\n\n\n\n\n \n\nLooking for workshop materials and presentations?\n\n\n\n\n \n\nWant to know more about our upcoming events?\n\n\n\n\n \n\nTake a look down memory lane!"
   },
   {
-    "objectID": "index.html#about-gso",
-    "href": "index.html#about-gso",
-    "title": "Geotechnical Student Organization",
-    "section": "About GSO",
-    "text": "About GSO\nThe Geotechnical Student Organization is a student-run organization at the University of Maine focused on hands-on learning, professional development, and building a strong community in geotechnical engineering."
-  },
-  {
-    "objectID": "donate.html",
-    "href": "donate.html",
-    "title": "Donate",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Resources",
     "section": "",
-    "text": "Your donation helps support members directly by funding workshops, professional development events, guest speakers, conference travel, and outreach activities."
+    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
   },
   {
-    "objectID": "donate.html#support-the-geotechnical-student-organization",
-    "href": "donate.html#support-the-geotechnical-student-organization",
-    "title": "Donate",
+    "objectID": "news.html#upcoming-events",
+    "href": "news.html#upcoming-events",
+    "title": "Resources",
     "section": "",
-    "text": "Your donation helps support members directly by funding workshops, professional development events, guest speakers, conference travel, and outreach activities."
+    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
   },
   {
-    "objectID": "donate.html#how-your-donation-is-used",
-    "href": "donate.html#how-your-donation-is-used",
-    "title": "Donate",
-    "section": "How your donation is used",
-    "text": "How your donation is used\n\nTechnical workshops and training\nGuest speakers and seminars\nStudent travel to conferences\nCommunity and outreach events\n\n\n\n  Donate via PayPal"
+    "objectID": "news.html#past-events",
+    "href": "news.html#past-events",
+    "title": "Resources",
+    "section": "Past Events",
+    "text": "Past Events\n\nEvent 1\nDescription\n\n\nEvent 2\nDescription\n\n\nEvent 3\nDescription"
   }
 ]

@@ -1,30 +1,133 @@
 ---
 title: ""
 page-layout: full
-toc: true
+toc: false
 ---
 
-<div class="hero">
-  <img src="Logo/Full.png" alt="GSO Logo" class="hero-logo">
+::: {.hero}
+<img src="Logo/Full.png" alt="GSO Logo" class="hero-logo">
 
-  <div class="intro-band">
-    <p>
-      A student-led organization at the University of Maine advancing geotechnical engineering through hands-on learning, professional connection, and community.
-    </p>
+
+::: {.intro-band}
+Welcome to Geotechnical Student Organization at The University Of Maine
+:::
+
+::: {.learn-btn-wrapper}
+[Learn More](#about){.learn-btn}
+:::
+
+:::
+
+
+::: {.about-split .about-margin-button #about}
+
+<div class="about-image">
+  <img src="Images/IMG_4867.jpg" alt="GSO members">
+</div>
+
+<div class="about-text">
+  <div class="about-text-inner">
+
+  <div class="about-label">About Us</div>
+
+  The Geotechnical Student Organization (GSO) is a student-run organization
+  at the University of Maine for undergraduate and graduate students
+  interested in geotechnical engineering.
+
   </div>
-
-  <a class="hero-btn" href="#about">Learn More</a>
 </div>
 
+:::
 
-## About GSO
+::: {.mission-split #mission}
 
-The Geotechnical Student Organization is a student-run organization at the University of Maine focused on hands-on learning, professional development, and building a strong community in geotechnical engineering.
+<div class="mission-text" data-aos="fade-right" data-aos-duration="1800">
+  <div class="mission-text-inner">
 
+  <div class="mission-label">Mission</div>
+
+  Our mission is to connect, support, and develop geotechnical engineering students through hands-on learning, professional engagement, and meaningful collaboration, preparing them to become skilled, innovative engineers who contribute to sustainable communities.
+
+  </div>
 </div>
 
+<div class="mission-image" data-aos="fade-right" data-aos-duration="1800">
+  <img src="Images/IMG_4855.jpg" alt="Mission image">
+</div>
+:::
 
-<!-- ## About Us {#about} -->
+
+::: {.vision-split .vision-margin-button #vision}
+
+<div class="vision-image" data-aos="fade-left" data-aos-duration="1800">
+  <img src="Images/IMG_4853.jpg" alt="GSO members">
+</div>
+
+<div class="vision-text" data-aos="fade-left" data-aos-duration="1800">
+  <div class="vision-text-inner">
+
+  <div class="vision-label">Vision</div>
+
+  Our vision is to be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence.
+
+  </div>
+</div>
+
+:::
+
+::: {.goal-split #goal}
+
+<div class="goal-text" data-aos="fade-right" data-aos-duration="1800">
+  <div class="goal-text-inner">
+
+  <div class="goal-label">Goal</div>
+
+  Our goal is to promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering.
+
+  </div>
+</div>
+
+<div class="goal-image" data-aos="fade-right" data-aos-duration="1800">
+  <img src="Images/Picture1.jpg" alt="goal image">
+</div>
+
+:::
+
+::: {.grid}
+
+::: {.tile}
+<a href="members.qmd">
+  <img src="Tiles/Members.png" class="tile-img" alt="Members">
+  <div class="tile-content">Who are we?</div>
+</a>
+:::
+
+::: {.tile}
+<a href="resources.qmd">
+  <img src="Tiles/Resources.png" class="tile-img" alt="Resources">
+  <div class="tile-content">Looking for workshop materials and presentations?</div>
+</a>
+:::
+
+::: {.tile}
+<a href="events.qmd">
+  <img src="Tiles/Events.png" class="tile-img" alt="Events">
+  <div class="tile-content">Want to know more about our upcoming events?</div>
+</a>
+:::
+
+::: {.tile}
+<a href="gallery.qmd">
+  <img src="Tiles/Gallery.png" class="tile-img" alt="Gallery">
+  <div class="tile-content">Take a look down memory lane!</div>
+</a>
+:::
+
+:::
+
+
+
+<!-- ## About Us {#about .about-margin-button} -->
 
 <!-- The Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering. We focus on hands-on learning, professional development, and building a strong, supportive community. -->
 

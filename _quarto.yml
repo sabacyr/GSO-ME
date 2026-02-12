@@ -3,14 +3,46 @@ project:
 
 website:
   title: "Geotechnical Student Organization"
-  favicon: img/favicon.png
+  favicon: Logo/Diamond.png
+  page-footer:
+    background: "#47587f"
+    foreground: "#ffffff"
+    left: |
+      © 2024 Geotechnical Student Organization  
+      University of Maine
+    
+    center: |
+      For website inquiries: [Saba Cyr](mailto:saba.molaei@maine.edu)
+    right:
+      - icon: instagram
+        href: https://instagram.com/gso_umaine
+      - icon: linkedin
+        href: https://linkedin.com/gso-me
+      - icon: github
+        href: https://github.com/sabacyr
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-    include-in-header: header.html
+
+    include-in-header:
+      - header.html
+      - text: |
+          <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+    include-after-body:
+      - text: |
+          <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+          <script>
+            document.addEventListener("DOMContentLoaded", function () {
+              AOS.init({
+                duration: 1000,
+                once: true
+              });
+            });
+          </script>
 
 
 

@@ -1,10 +1,13 @@
 body {
   line-height: 1.6;
   padding-top: 70px;
+  font-family: var(--bs-body-font-family);
+  overflow-x: hidden;
+  background-color: #FFFAF2;
 }
 
 h1, h2, h3 {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 /* ======= HEADER: NAVIGATION BAR STYLE ======= */
@@ -13,7 +16,7 @@ h1, h2, h3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #b39469;
+  background-color: #47587f;
   padding: 0.75rem 2rem;
 }
 
@@ -30,7 +33,7 @@ h1, h2, h3 {
 }
 
 .logo-text {
-  color: #f5f5df;
+  color: #ffffff;
   font-weight: 700;
   font-size: 1.3rem;
   white-space: nowrap;
@@ -63,23 +66,23 @@ h1, h2, h3 {
 
 /* HOVER: text + icon */
 .custom-navbar a:hover {
-  color: #47587f;
+  color: #cbb79b;
 }
 
 .custom-navbar a:hover .nav-icon {
-  filter: brightness(0) saturate(100%) invert(33%) sepia(14%)
-        saturate(965%) hue-rotate(187deg) brightness(94%) contrast(92%);
+  filter: brightness(0) saturate(100%) invert(83%) sepia(18%) 
+  saturate(391%) hue-rotate(352deg) brightness(92%) contrast(89%);
 }
 
 /* ACTIVE PAGE (AUTOMATIC VIA JS) */
 .nav-right a.active {
-  color: #47587f;
+  color: #cbb79b;
   font-weight: 700;
 }
 
 .nav-right a.active .nav-icon {
-  filter: brightness(0) saturate(100%) invert(33%) sepia(14%)
-        saturate(965%) hue-rotate(187deg) brightness(94%) contrast(92%);
+  filter: brightness(0) saturate(100%) invert(83%) sepia(18%) 
+  saturate(391%) hue-rotate(352deg) brightness(92%) contrast(89%);
 }
 
 /* ANIMATED UNDERLINE */
@@ -90,7 +93,7 @@ h1, h2, h3 {
   bottom: -6px;
   width: 100%;
   height: 3px;
-  background-color: #47587f;
+  background-color: #cbb79b;
   transform: scaleX(0);
   transform-origin: middle;
   transition: transform 0.5s ease;
@@ -103,21 +106,19 @@ h1, h2, h3 {
 
 /* ======= HOME PAGE STYLE ======= */
 
-/* Full-screen hero container */
+/* Full-screen hero container for the logo */
 .hero {
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+/*  justify-content: center; */
   align-items: center;
-  position: relative;
-  text-align: center;
-  background-color: #fdfbf6; /* or very light neutral */
+/*  position: relative; */
+/*  text-align: center; */
 }
 
-
+/* container for the texts on this page */
 .content-container {
-  width: 70vw;
+  width: 100vw;
   margin: 0 auto;
   padding: 2rem 0rem;
   font-size: 1.1rem;
@@ -125,35 +126,18 @@ h1, h2, h3 {
 
 /* Large responsive logo with fade-in */
 .hero-logo {
-  width: 70vw;
+  width: 100vw;
   max-width: 900px;
   height: auto;
   opacity: 0;
   animation: fadeIn 1.2s ease forwards;
 }
 
-.hero-btn {
-  margin-top: 2rem;
-  padding: 0.6rem 1.5rem;
-  border-radius: 50px;
-  background-color: #2a92bf;
-  color: #fffced;
-  text-decoration: none;
-  font-weight: 600;
-  opacity: 0;
-  animation: fadeIn 1.2s ease forwards;
-  animation-delay: 0.6s;
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-/* Fade-in animation */
+/* Fade-in animation for the logo*/
 @keyframes fadeIn {
   from {
     opacity: 0;
-    transform: translateY(15px);
+    transform: translateY(25px);
   }
   to {
     opacity: 1;
@@ -161,23 +145,629 @@ html {
   }
 }
 
-
-.hero-btn:hover {
-  background-color: #175931;
+/*the welcome text below the logo */
+.intro-band {
+  max-width: 900px;
+  margin: 0 auto 0 auto;
+  padding: 0.5 1.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 3;
+  color: #373a3c;
 }
 
-.intro-band {
-  background: none;
-  max-width: 950px;
-  margin: 2rem auto 0 auto;
-  padding: 0 1.5rem;
+/* Learn more button below the welcome text */
+.learn-btn-wrapper {
+  margin-top: 2rem;
   text-align: center;
 }
 
-.intro-band p {
-  margin: 0;
-  font-family: inherit;
-  font-size: 1.5rem;
-  line-height: 1.7;
-  color: #282a2b;
+.learn-btn {
+  position: relative;
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #373a3c;
+  border-radius: 30px;
+  background: #FFFAF2;
+  overflow: hidden;
+  z-index: 0;
 }
+
+.learn-btn::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: 30px;
+  background: conic-gradient(
+    #68473a,
+    #a4562a,
+    #f5f5df,
+    #c3f2ff,
+    #2393C3,
+    #47587f,
+    #68473a
+  );
+  animation: rotateBorder 5s linear infinite;
+  z-index: -2;
+}
+
+.learn-btn::after {
+  content: "";
+  position: absolute;
+  inset: 3.5px;
+  border-radius: 30px;
+  background: #FFFAF2;
+  z-index: -1;
+}
+
+@keyframes rotateBorder {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.learn-btn:hover {
+  transform: translateY(-2px);
+  transition: 0.2s ease;
+}
+
+/* Learn more button scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* space below the button and the about us header */
+.about-margin-button {
+  margin-top: 10rem;
+}
+
+/* ======= About Section ======= */
+.about-split::before {
+  content: "";
+  position: absolute;
+  top: -50px;          /* how far upward the fade extends */
+  left: 0;
+  width: 100%;
+  height: 100px;        /* height of fade zone */
+  background: linear-gradient(
+    to bottom,
+    #FFFAF2 0%,
+    #47587f 50%,
+    rgba(71, 88, 127, 0) 100%
+  );
+  pointer-events: none;
+  z-index: 3;
+}
+
+.about-split {
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  width: 100vw;
+  height: 1002px;   /* change this value */
+  display: flex;
+}
+
+/* IMAGE SIDE (65%) */
+
+.about-image {
+  flex: 0 0 65%;
+  position: relative;
+}
+
+.about-image img {
+  width: 100%;
+  height: 1002px;
+  object-fit: cover;
+  display: block;
+}
+
+/* LONG FADE INTO TAN (600px zone) */
+
+.about-image::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 800px;   /* total fade distance */
+
+  background: linear-gradient(
+    to right,
+    rgba(71, 88, 127, 0) 0%,
+    rgba(71, 88, 127, 0.25) 40%,
+    rgba(71, 88, 127, 0.6) 75%,
+    #47587f 100%
+  );
+
+  pointer-events: none;
+}
+
+/* TEXT SIDE (35%) */
+
+.about-text {
+  flex: 0 0 35%;
+  background-color: #47587f;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-text-inner {
+  max-width: 500px;
+  padding: 60px 40px;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+.about-text::before {
+  content: "";
+  position: absolute;
+  left: -300px;   /* width of fade zone */
+  top: 0;
+  height: 100%;
+  width: 300px;
+  background: linear-gradient(
+    to right,
+    rgba(179,148,105,0),
+    #47587f
+  );
+}
+
+.about-text-inner {
+  position: relative;          /* needed for label positioning */
+  max-width: 500px;
+  padding: 50px 40px 40px 40px;
+  line-height: 1.7;
+  font-size: 1.3rem;
+
+  border: 2px solid #f5f5df;
+  border-radius: 8px;
+}
+
+/* LABEL ON BORDER */
+
+.about-label {
+  position: absolute;
+  top: -20px;
+  left: 30px;
+
+  background-color: #47587f;   /* same as panel color */
+  padding: 0 12px;
+
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}
+
+
+/* ======= Mission Section ======= */
+.mission-split {
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  width: 100vw;
+  height: 928px;
+  display: flex;
+}
+
+/* TEXT SIDE (35%) */
+
+.mission-text {
+  flex: 0 0 35%;
+  background-color: #47587f;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.mission-text-inner {
+  position: relative;
+  max-width: 500px;
+  padding: 50px 40px 40px 40px;
+  font-size: 1.3rem;
+  line-height: 1.7;
+
+  border: 2px solid #f5f5df;
+  border-radius: 8px;
+}
+
+/* LABEL */
+
+.mission-label {
+  position: absolute;
+  top: -20px;
+  left: 30px;
+  background-color: #47587f;
+  padding: 0 12px;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}
+
+/* IMAGE SIDE (65%) */
+
+.mission-image {
+  flex: 0 0 65%;
+  position: relative;
+}
+
+.mission-image img {
+  width: 100%;
+  height: 928px;
+  object-fit: cover;
+  display: block;
+}
+
+/* FADE FROM IMAGE INTO TAN (LEFTWARD) */
+
+.mission-image::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 800px;
+
+  background: linear-gradient(
+    to left,
+    rgba(71, 88, 127, 0) 0%,
+    rgba(71, 88, 127, 0.25) 40%,
+    rgba(71, 88, 127, 0.6) 75%,
+    #47587f 100%
+  );
+
+  pointer-events: none;
+}
+
+/* ======= Vision Section ======= */
+.vision-split {
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  width: 100vw;
+  height: 922px;   /* change this value */
+  display: flex;
+}
+
+/* IMAGE SIDE (65%) */
+
+.vision-image {
+  flex: 0 0 65%;
+  position: relative;
+}
+
+.vision-image img {
+  width: 100%;
+  height: 922px;
+  object-fit: cover;
+  display: block;
+}
+
+/* LONG FADE INTO TAN (600px zone) */
+
+.vision-image::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 800px;   /* total fade distance */
+
+  background: linear-gradient(
+    to right,
+    rgba(71, 88, 127, 0) 0%,
+    rgba(71, 88, 127, 0.25) 40%,
+    rgba(71, 88, 127, 0.6) 75%,
+    #47587f 100%
+  );
+
+  pointer-events: none;
+}
+
+/* TEXT SIDE (35%) */
+
+.vision-text {
+  flex: 0 0 35%;
+  background-color: #47587f;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vision-text-inner {
+  max-width: 500px;
+  padding: 60px 40px;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+.vision-text::before {
+  content: "";
+  position: absolute;
+  left: -300px;   /* width of fade zone */
+  top: 0;
+  height: 100%;
+  width: 300px;
+  background: linear-gradient(
+    to right,
+    rgba(179,148,105,0),
+    #47587f
+  );
+}
+
+.vision-text-inner {
+  position: relative;          /* needed for label positioning */
+  max-width: 500px;
+  padding: 50px 40px 40px 40px;
+  line-height: 1.7;
+  font-size: 1.3rem;
+
+  border: 2px solid #f5f5df;
+  border-radius: 8px;
+}
+
+/* LABEL ON BORDER */
+
+.vision-label {
+  position: absolute;
+  top: -20px;
+  left: 30px;
+
+  background-color: #47587f;   /* same as panel color */
+  padding: 0 12px;
+
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}
+
+
+/* ======= Goal Section ======= */
+.goal-split {
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  width: 100vw;
+  height: 928px;
+  display: flex;
+}
+
+/* TEXT SIDE (35%) */
+
+.goal-text {
+  flex: 0 0 35%;
+  background-color: #47587f;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.goal-text-inner {
+  position: relative;
+  max-width: 500px;
+  padding: 50px 40px 40px 40px;
+  font-size: 1.3rem;
+  line-height: 1.7;
+
+  border: 2px solid #f5f5df;
+  border-radius: 8px;
+}
+
+/* LABEL */
+
+.goal-label {
+  position: absolute;
+  top: -20px;
+  left: 30px;
+  background-color: #47587f;
+  padding: 0 12px;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}
+
+/* IMAGE SIDE (65%) */
+
+.goal-image {
+  flex: 0 0 65%;
+  position: relative;
+}
+
+.goal-image img {
+  width: 100%;
+  height: 928px;
+  object-fit: cover;
+  display: block;
+}
+
+/* FADE FROM IMAGE INTO TAN (LEFTWARD) */
+
+.goal-image::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 800px;
+
+  background: linear-gradient(
+    to left,
+    rgba(71, 88, 127, 0) 0%,
+    rgba(71, 88, 127, 0.25) 40%,
+    rgba(71, 88, 127, 0.6) 75%,
+    #47587f 100%
+  );
+
+  pointer-events: none;
+}
+
+.goal-split::after {
+  content: "";
+  position: absolute;
+  bottom: -30px;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(
+    to bottom,
+    rgba(71, 88, 127, 0) 0%,
+    #47587f 50%,
+    #FFFAF2 100%
+  );
+  pointer-events: none;
+  z-index: 3;
+}
+
+.goal-split::before {
+  content: "";
+  position: absolute;
+  bottom: -100px;       /* sits exactly at the boundary */
+  left: 0;
+  width: 100%;
+  height: 10px;        /* thin animated line */
+  background: linear-gradient(
+    90deg,
+    #68473a,
+    #a4562a,
+    #f5f5df,
+    #c3f2ff,
+    #2393C3,
+    #47587f,
+    #68473a
+  );
+  background-size: 300% 100%;
+  animation: lineFlow 4s ease-in-out infinite;
+  z-index: 5;         /* higher than fade */
+}
+
+@keyframes lineFlow {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ======= Tile Section ======= */
+
+.grid {
+  position: relative;   /* add this */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 6rem auto;
+  padding: 5rem 2rem;
+}
+
+.tile {
+  position: relative;
+  height: 425px;
+  border-radius: 18px;
+  overflow: hidden;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.tile a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-decoration: none;
+  color: white;
+}
+
+/* image */
+.tile-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  transition: transform 0.6s ease;
+}
+
+/* overlay */
+.tile::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.15);
+  transition: background 0.4s ease;
+}
+
+/* hover animation */
+.tile:hover {
+  transform: translateY(-8px) scale(1.2);
+  box-shadow: 0 25px 50px rgba(71, 88, 127, 0.6);
+}
+
+.tile:hover .tile-img {
+  transform: scale(1.17);
+}
+
+.tile:hover::after {
+  background: rgba(71, 88, 127, 0.6);
+}
+
+/* text */
+.tile-content {
+  position: relative;
+  z-index: 3;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  max-width: 85%;
+  margin: 0 auto;
+
+  color:#f5f5df !important;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.grid::after {
+  content: "";
+  position: absolute;
+  bottom: -60px;   /* adjust spacing */
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: linear-gradient(
+    90deg,
+    #68473a,
+    #a4562a,
+    #f5f5df,
+    #c3f2ff,
+    #2393C3,
+    #47587f,
+    #68473a
+  );
+  background-size: 300% 100%;
+  animation: lineFlow 4s ease-in-out infinite;
+}
+
+@keyframes lineFlow {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
