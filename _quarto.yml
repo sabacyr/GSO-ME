@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Geotechnical Student Organization"
-  favicon: Logo/Diamond.png
+  favicon: ../Images/Logo/Diamond.png
   page-footer:
     background: "#47587f"
     foreground: "#ffffff"

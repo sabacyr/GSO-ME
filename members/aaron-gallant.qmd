@@ -1,0 +1,28 @@
+---
+title: "Aaron Gallant"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/aaron-gallant.jpg)
+:::
+
+Ph.D. Geotechnical Engineering, P.E.
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[LinkedIn](#)
+[Google Scholar](#)
+

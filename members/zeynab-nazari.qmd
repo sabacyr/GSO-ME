@@ -1,0 +1,28 @@
+---
+title: "Zeynab Nazari"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/zeynab-nazari.jpg)
+:::
+
+PhD Student in Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[Resume](RESUME)
+[LinkedIn](#)
+

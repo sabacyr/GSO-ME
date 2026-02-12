@@ -105,6 +105,55 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   transform: scaleX(1);
 }
 
+/* ======= Drop down menu container ======= */
+
+
+/* Dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown content */
+.dropdown-content {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #47587f;
+  min-width: 180px;
+  border-radius: 10px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  z-index: 1000;
+
+  opacity: 0;
+  transform: translateY(10px);
+  pointer-events: none;
+
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+/* Dropdown links */
+.dropdown-content a {
+  display: block;
+  padding: 12px 18px;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 0.95rem;
+  transition: background 0.2s ease;
+}
+
+.dropdown-content a:hover {
+  background-color: #47587f;
+}
+
+/* Animate on hover */
+.dropdown:hover .dropdown-content {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
 /* ======= TABLE OF CONTENT ======= */
 #TOC {
   position: fixed;
@@ -135,7 +184,6 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   color: #47587f;
   line-height: 1.6;
 }
-
 
 /* ======= HOME PAGE STYLE ======= */
 
@@ -718,7 +766,7 @@ html {
     #005a2f
   );
   background-size: 300% 100%;
-  animation: snakeBorder 10s linear infinite;
+  animation: snakeBorder 7s linear infinite;
   z-index: 5;         /* higher than fade */
 }
 
@@ -832,11 +880,11 @@ html {
   );
 
   background-size: 300% 100%;
-  animation: snakeBorder 10s linear infinite;
+  animation: snakeBorder 7s linear infinite;
 }
 
 
-/* ======= Memberpage ======= */
+/* ======= Titles in all pages ======= */
 
 /* Center page title */
 .quarto-title h1 {
@@ -845,8 +893,14 @@ html {
   display: inline-block;
   left: 50%;
   transform: translateX(-50%);
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
+
+/* Space below page title (all pages) */
+#quarto-content .quarto-title {
+  margin-bottom: 3rem;   /* adjust as needed */
+}
+
 
 /* Snake underline */
 .quarto-title h1::after {
@@ -885,9 +939,39 @@ html {
   }
 }
 
-/* =========================
-   MEMBER GRID
-   ========================= */
+
+/* ======= Memberpage content block ======= */
+
+.member-info {
+  position: relative;
+  padding: 1rem;
+  z-index: 2;
+  background: #ffffff;
+  text-align: center;
+}
+
+/* Remove space above name */
+.member-info h3 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+/* Role line (bold line under name) */
+.member-info strong {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* Description text smaller */
+.member-info p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 0.3rem;
+}
+
+
+/* ===== MEMBER GRID ===== */
 
 .member-grid {
   display: grid;
@@ -896,9 +980,8 @@ html {
   margin-top: 3rem;
 }
 
-/* =========================
-   MEMBER CARD
-   ========================= */
+
+/* ===== MEMBER CARD ===== */
 
 .member-card {
   position: relative;
@@ -906,35 +989,49 @@ html {
   overflow: hidden;
   background: #ffffff;
   text-align: center;
-
   transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 
-/* Image container */
+
+/* ===== IMAGE ===== */
+
 .member-photo {
   width: 100%;
   height: 320px;
   object-fit: cover;
   transition: transform 0.6s ease;
+  position: relative;
+  z-index: 1;
+  display: block;   /* removes small image bottom gap */
 }
 
-/* Overlay */
+
+/* ===== SEE BIO OVERLAY ===== */
+
 .member-card::after {
-  content: "";
+  content: "See Bio";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.05);
-  transition: background 0.4s ease;
-}
-
-/* Content block */
-.member-info {
-  position: relative;
-  padding: 1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(71, 88, 127, 0.6);
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  opacity: 0;
+  transition: opacity 0.4s ease;
   z-index: 2;
 }
 
-/* Hover animation */
+.member-card:hover::after {
+  opacity: 1;
+}
+
+
+/* ===== HOVER ANIMATION ===== */
+
 .member-card:hover {
   transform: translateY(-8px) scale(1.04);
   box-shadow: 0 25px 50px rgba(71, 88, 127, 0.25);
@@ -944,13 +1041,17 @@ html {
   transform: scale(1.1);
 }
 
-.member-card:hover::after {
-  background: rgba(71, 88, 127, 0.4);
+
+/* ===== CLICKABLE CARD LINK ===== */
+
+.member-card .card-link {
+  position: absolute;
+  inset: 0;
+  z-index: 3;
 }
 
-/* =========================
-   ALUMNI RIBBON
-   ========================= */
+
+/* ===== ALUMNI RIBBON ===== */
 
 .member-card.alumni::before {
   content: "Alumni";
@@ -959,17 +1060,149 @@ html {
   right: -45px;
   width: 160px;
   padding: 6px 0;
-
   background: #47587f;
   color: #ffffff;
   font-size: 0.8rem;
   font-weight: 600;
   text-align: center;
   letter-spacing: 1px;
-
   transform: rotate(45deg);
-  z-index: 3;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  z-index: 4;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* ===== PROFILE BIO PAGE PHOTO ===== */
+
+.profile-photo {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.profile-photo img {
+  width: 260px;
+  max-width: 90%;
+  border-radius: 16px;
+  border: 6px solid #47587f;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+
+/* ===== SECTION DIVIDER ===== */
+
+.members-page h2,
+.bylaws-page h2 {
+  border-bottom: 2px solid #a4562a !important;
+  padding-bottom: 0.6rem;
+}
+
+
+/* =========================
+   SECTION DIVIDEDR
+   ========================= */
+.members-page h2 {
+  border-bottom: 2px solid #a4562a !important;
+  padding-bottom: 0.6rem;
+}
+
+
+.bylaws-page h2 {
+  border-bottom: 2px solid #a4562a !important;
+  padding-bottom: 0.6rem;
+}
+
+
+/* =========================
+   EVENTS PAGE
+   ========================= */
+   
+.calendar-container {
+  max-width: 1000px;
+  margin: 2rem auto;
+}
+
+.calendar-wrapper {
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 1.5rem;
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.08);
+}
+
+.calendar-page h2,
+.upcomingevents-page h2,
+.pastevents-page h2 {
+  border-bottom: 2px solid #a4562a !important;
+  padding-bottom: 0.6rem;
+}
+
+/* =========================
+   CONTACT PAGE
+   ========================= */
+
+.contact-page h2 {
+  border-bottom: 2px solid #a4562a !important;
+  padding-bottom: 0.6rem;
+}
+
+.contact-container {
+  max-width: 1000px;
+  margin: 3rem auto;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Top row */
+.form-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+/* Inputs */
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.9rem;
+  border: 2px solid #444;
+  border-radius: 6px;
+  font-size: 1rem;
+  background: #f3f3f3;
+}
+
+.contact-form textarea {
+  min-height: 140px;
+  resize: vertical;
+}
+
+/* Button */
+.contact-submit {
+  text-align: left;
+}
+
+.contact-submit button {
+  padding: 0.7rem 1.5rem;
+  background: #ffffff;
+  border: 2px solid #444;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.contact-submit button:hover {
+  background: #444;
+  color: #ffffff;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .form-row {
+    grid-template-columns: 1fr;
+  }
 }
 
 

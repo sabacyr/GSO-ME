@@ -1,0 +1,28 @@
+---
+title: "Luis Zambrano Cruzatty"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/luis-zambrano.jpg)
+:::
+
+Ph.D. Geotechnical Engineering, P.E.
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[LinkedIn](#)
+[Google Scholar](#)
+

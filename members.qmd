@@ -1,327 +1,242 @@
 ---
 title: "Members"
+page-layout: full
+body-classes: members-page
 ---
 
 ## Join GSO
+
 Joining the Geotechnical Student Organization (GSO) offers students an opportunity to extend their learning beyond the classroom and engage directly with the field of geotechnical engineering. GSO provides hands on workshops, technical seminars, field experiences, and collaborative events that help bridge the gap between theory and practice. Through these activities, members gain exposure to real world challenges, develop practical skills, and become more confident applying engineering concepts in professional settings.
 
 GSO also creates a supportive and inclusive environment where students can build meaningful connections with peers, faculty, and industry professionals. By collaborating with organizations such as the Geo Institute of ASCE, COPRI, undergraduate organizations such as ASCE Student Chapter and Chi Epsilon, the Civil Engineering Honor Society, the organization supports participation in conferences, competitions, and professional development events. Whether you are an undergraduate exploring geotechnical engineering or a graduate or undergraduate student refining your expertise, GSO provides a platform to connect, learn, and grow while preparing to become an effective and impactful engineer.
-
 
 ## Presidency
 
 ::: {.member-grid}
 
 ::: {.member-card}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/andres-cordoba.html" aria-label="Andres Cordoba Ordonez profile" target="_blank" rel="noopener"></a>
+![](Images/Members/andres-cordoba.jpg){.andres-cordoba-photo}
 ::: {.member-info}
-### Andres Cordoba Ordonez
-**President (Jul 2025–Current)**
-
-PhD Student, Geotechnical Engineering  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Andres Cordoba Ordonez, MSc.
+**President (Jul 2025–Present)**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/sebastian-montoya.html" aria-label="Sebastian Montoya Vargas profile" target="_blank" rel="noopener"></a>
+![](Images/Members/sebastian-montoya.jpg){.sebastian-montoya-photo}
 ::: {.member-info}
-### Sebastian Montoya Vargas
+### Sebastian Montoya Vargas, Ph.D., E.I.T
 **Past President (Jan 2025–Jul 2025)**
-
-PhD in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
 :::
-
 :::
 
 ::: {.member-card}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
+![](Images/Members/saba-cyr.jpg){.saba-cyr-photo}
 ::: {.member-info}
-### Saba Cyr
+### Saba Cyr, BSc., E.I.T
 **Past President (Jan 2023–Jan 2025)**
-
-PhD Candidate, Geotechnical Engineering  
-Research focus: Remote Sensing, Landslides, and Mitigation.
-
-Email: saba.molaei@maine.edu  
-[LinkedIn](#)
+:::
 :::
 
 :::
-
-:::
-
 
 ## Executive Board
 
 ::: {.member-grid}
 
 ::: {.member-card}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/zeynab-nazari.html" aria-label="Zeynab Nazari profile" target="_blank" rel="noopener"></a>
+![](Images/Members/zeynab-nazari.jpg){.zeynab-nazari-photo}
 ::: {.member-info}
-### Zeynab Nazari
-**Vice President (Jul 2025–Current)**
-
-PhD Student, Geotechnical Engineering  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Zeynab Nazari, MSc.
+**Vice President (Jul 2025–Present)**
 :::
-
 :::
 
 ::: {.member-card}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
+![](Images/Members/saba-cyr.jpg){.saba-cyr}
 ::: {.member-info}
-### Saba Cyr
-**Vice President (Jul 2025–Current)**
-
-PhD Candidate, Geotechnical Engineering  
-Research focus: Remote Sensing, Landslides, and Mitigation.
-
-Email: saba.molaei@maine.edu  
-[LinkedIn](#)
+### Saba Cyr, BSc., E.I.T
+**Vice President (Jul 2025–Present)**
+:::
 :::
 
 :::
-
-:::
-
-
 
 ## Members
 
 ::: {.member-grid}
 
 ::: {.member-card}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/andres-cordoba.html" aria-label="Andres Cordoba Ordonez profile" target="_blank" rel="noopener"></a>
+![](Images/Members/andres-cordoba.jpg){.andres-cordoba-photo}
 ::: {.member-info}
-### Johan Mira
-**Graduate Student**
-
-MSc Student, Geotechnical Engineering  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Andres Cordoba Ordonez, MSc.
+**Ph.D. Student**
+:::
 :::
 
+::: {.member-card}
+<a class="card-link" href="members/zeynab-nazari.html" aria-label="Zeynab Nazari profile" target="_blank" rel="noopener"></a>
+![](Images/Members/zeynab-nazari.jpg){.zeynab-nazari-photo}
+::: {.member-info}
+### Zeynab Nazari, MSc.
+**Ph.D. Student**
+:::
+:::
+
+::: {.member-card}
+<a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
+![](Images/Members/saba-cyr.jpg){.saba-cyr}
+::: {.member-info}
+### Saba Cyr, BSc., E.I.T
+**Ph.D. Candidate**
+:::
+:::
+
+::: {.member-card}
+<a class="card-link" href="members/johan-mira.html" aria-label="Johan Mira profile" target="_blank" rel="noopener"></a>
+![](Images/Members/johan-mira.jpg){.johan-mira}
+::: {.member-info}
+### Johan Mira, BSc.
+**MSc. Student**
+:::
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/temitope-omokinde.html" aria-label="Temitope Omokinde profile" target="_blank" rel="noopener"></a>
+![](Images/Members/temitope-omokinde.jpg){.temitope-omokinde-photo}
 ::: {.member-info}
-### Temitope Babatunde
-**Graduate Student**
-
-MSc in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Temitope Omokinde, MSc., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/anthony-flores.html" aria-label="Anthony Flores profile" target="_blank" rel="noopener"></a>
+![](Images/Members/anthony-flores.jpg){.anthony-flores-photo}
 ::: {.member-info}
-### Danilo Botero Lopez
-**Graduate Student**
-
-PhD in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Anthony Flores, MSc., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/danilo-botero.html" aria-label="Danilo Botero Lopez profile" target="_blank" rel="noopener"></a>
+![](Images/Members/danilo-botero.jpg){.danilo-botero-photo}
 ::: {.member-info}
-### Sebastian Carvajal
-**Graduate Student**
-
-MSc in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Danilo Botero Lopez, Ph.D., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/paula-sarmiento.html" aria-label="Paula Sarmiento Robles profile" target="_blank" rel="noopener"></a>
+![](Images/Members/paula-sarmiento.jpg){.paula-sarmiento}
 ::: {.member-info}
-### Andres Espinosa
-**Graduate Student**
-
-MSc in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Paula Sarmiento Robles, BSc.
+**Ph.D. Student**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/sebastian-carvajal.html" aria-label="Sebastian Carvajal profile" target="_blank" rel="noopener"></a>
+![](Images/Members/sebastian-carvajal.jpg){.sebastian-carvajal-photo}
 ::: {.member-info}
-### Camilo Fernandez
-**Graduate Student**
-
-MSc in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Sebastian Carvajal, MSc., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/andres-espinosa.html" aria-label="Andres Espinosa profile" target="_blank" rel="noopener"></a>
+![](Images/Members/andres-espinosa.jpg){.andres-espinosa-photo}
 ::: {.member-info}
-### Rakesh Pandit
-**Graduate Student**
-
-MSc in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Andres Espinosa, MSc., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/camilo-fernandez.html" aria-label="Camilo Fernandez profile" target="_blank" rel="noopener"></a>
+![](Images/Members/camilo-fernandez.jpg){.camilo-fernandez-photo}
 ::: {.member-info}
-### Abdul Aziz Umar
-**Graduate Student**
-
-MSc in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Camilo Fernandez, MSc., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/rakesh-pandit.html" aria-label="Rakesh Pandit profile" target="_blank" rel="noopener"></a>
+![](Images/Members/rakesh-pandit.jpg){.rakesh-pandit-photo}
 ::: {.member-info}
-### Peta Fifield
-**Graduate Student**
-
-MSc in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Rakesh Pandit, MSc., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/abdul-aziz-umar.html" aria-label="Abdul Aziz Umar profile" target="_blank" rel="noopener"></a>
+![](Images/Members/abdul-aziz.jpg){.abdul-aziz-photo}
 ::: {.member-info}
-### Babak Mahmoudi
-**Graduate Student**
-
-PhD in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Abdul Aziz Umar, MSc., E.I.T
+**Geotechnical Engineer**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/peta-fifield.html" aria-label="Peta Fifield profile" target="_blank" rel="noopener"></a>
+![](Images/Members/peta-fifield.jpg){.peta-fifield-photo}
 ::: {.member-info}
-### SK Belal Hossen
-**Graduate Student**
+### Peta Fifield, MSc., E.I.T
+**Geotechnical Engineer**
+:::
+:::
 
-PhD in Geotechnical Engineering, E.I.T  
-Research focus: To be added.
+::: {.member-card .alumni}
+<a class="card-link" href="members/babak-mahmoudi.html" aria-label="Babak Mahmoudi profile" target="_blank" rel="noopener"></a>
+![](Images/Members/babak-mahmoudi.jpg){.babak-mahmoudi-photo}
+::: {.member-info}
+### Babak Mahmoudi, Ph.D., E.I.T
+**Geotechnical Engineer**
+:::
+:::
 
-Email: insert email  
-[LinkedIn](#)
+::: {.member-card .alumni}
+<a class="card-link" href="members/sk-belal-hossen.html" aria-label="SK Belal Hossen profile" target="_blank" rel="noopener"></a>
+![](Images/Members/belal-hossen.jpg){.belal-hossen-photo}
+::: {.member-info}
+### SK Belal Hossen, Ph.D., E.I.T
+**Geotechnical Engineer**
+:::
 :::
 
 :::
-
-:::
-
-
-
 
 ## Faculty
 
 ::: {.member-grid}
 
 ::: {.member-card}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/aaron-gallant.html" aria-label="Aaron Gallant profile" target="_blank" rel="noopener"></a>
+![](Images/Members/aaron-gallant.jpg){.aaron-gallant-photo}
 ::: {.member-info}
-### Aaron Gallant
-**Faculty Advisor**
-
-PhD, P.E., Geotechnical Engineering  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Aaron Gallant, Ph.D., P.E.
+**Associate Professor**
 :::
-
 :::
 
 ::: {.member-card .alumni}
-![](Images/Members/name.jpg){.member-photo}
-
+<a class="card-link" href="members/luis-zambrano-cruzatty.html" aria-label="Luis Zambrano Cruzatty profile" target="_blank" rel="noopener"></a>
+![](Images/Members/luis-zambrano.jpg){.luis-zambrano-photo}
 ::: {.member-info}
-### Luis Zambrano Cruzatty
-**Former Faculty Member**
-
-PhD in Geotechnical Engineering  
-Research focus: To be added.
-
-Email: insert email  
-[LinkedIn](#)
+### Luis Zambrano Cruzatty, Ph.D., P.E.
+**Former Assistant Professor**
 :::
-
 :::
 
 :::

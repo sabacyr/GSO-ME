@@ -2,6 +2,7 @@
 title: ""
 page-layout: full
 toc: false
+body-classes: home-page
 ---
 
 ::: {.hero}
@@ -110,7 +111,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 :::
 
 ::: {.tile}
-<a href="events.qmd">
+<a href="upcoming-events.qmd">
   <img src="Images/Tiles/Events.png" class="tile-img" alt="Events">
   <div class="tile-content">Want to know more about our upcoming events?</div>
 </a>

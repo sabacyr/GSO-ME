@@ -1,0 +1,28 @@
+---
+title: "Andres Cordoba Ordonez"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/andres-cordoba.jpg)
+:::
+
+PhD Student in Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[LinkedIn](#)
+[Google Scholar](#)
+

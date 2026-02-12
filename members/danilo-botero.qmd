@@ -1,0 +1,28 @@
+---
+title: "Danilo Botero Lopez"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/danilo-botero.jpg)
+:::
+
+PhD Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[LinkedIn](#)
+[Google Scholar](#)
+

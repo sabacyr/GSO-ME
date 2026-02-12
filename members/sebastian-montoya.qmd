@@ -1,0 +1,28 @@
+---
+title: "Sebastian Montoya Vargas"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/sebastian-montoya.jpg)
+:::
+
+PhD Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[LinkedIn](#)
+[Google Scholar](#)
+

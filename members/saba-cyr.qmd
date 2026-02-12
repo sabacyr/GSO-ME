@@ -1,0 +1,28 @@
+---
+title: "Saba Cyr"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/saba-cyr.jpg)
+:::
+
+PhD Candidate in Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[Resume](RESUME)
+[LinkedIn](#)
+

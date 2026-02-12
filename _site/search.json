@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
+    "objectID": "upcoming-events.html#social",
+    "href": "upcoming-events.html#social",
+    "title": "Upcoming Events",
+    "section": "Social",
+    "text": "Social"
   },
   {
-    "objectID": "resources.html#upcoming-events",
-    "href": "resources.html#upcoming-events",
-    "title": "Resources",
-    "section": "",
-    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
-  },
-  {
-    "objectID": "resources.html#past-events",
-    "href": "resources.html#past-events",
-    "title": "Resources",
-    "section": "Past Events",
-    "text": "Past Events\n\nEvent 1\nDescription\n\n\nEvent 2\nDescription\n\n\nEvent 3\nDescription"
+    "objectID": "past-events.html#social",
+    "href": "past-events.html#social",
+    "title": "Past Events",
+    "section": "Social",
+    "text": "Social"
   },
   {
     "objectID": "members.html",
@@ -39,49 +32,70 @@
     "href": "members.html#presidency",
     "title": "Members",
     "section": "Presidency",
-    "text": "Presidency\n\n\n\n\nAndres Cordoba Ordonez\nPresident (Jul 2025–Current)\nPhD Student, Geotechnical Engineering\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nSebastian Montoya Vargas\nPast President (Jan 2025–Jul 2025)\nPhD in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nSaba Cyr\nPast President (Jan 2023–Jan 2025)\nPhD Candidate, Geotechnical Engineering\nResearch focus: Remote Sensing, Landslides, and Mitigation.\nEmail: saba.molaei@maine.edu\nLinkedIn"
+    "text": "Presidency\n\n\n  ::: {.member-info} ### Andres Cordoba Ordonez, MSc. President (Jul 2025–Present)\n\n\n\n  ::: {.member-info} ### Sebastian Montoya Vargas, Ph.D., E.I.T Past President (Jan 2025–Jul 2025)\n\n:::\n\n  ::: {.member-info} ### Saba Cyr, BSc., E.I.T Past President (Jan 2023–Jan 2025)\n\n:::\n:::"
   },
   {
     "objectID": "members.html#executive-board",
     "href": "members.html#executive-board",
     "title": "Members",
     "section": "Executive Board",
-    "text": "Executive Board\n\n\n\n\nZeynab Nazari\nVice President (Jul 2025–Current)\nPhD Student, Geotechnical Engineering\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nSaba Cyr\nVice President (Jul 2025–Current)\nPhD Candidate, Geotechnical Engineering\nResearch focus: Remote Sensing, Landslides, and Mitigation.\nEmail: saba.molaei@maine.edu\nLinkedIn"
+    "text": "Executive Board\n\n\n  ::: {.member-info} ### Zeynab Nazari, MSc. Vice President (Jul 2025–Present)\n\n\n\n  ::: {.member-info} ### Saba Cyr, BSc., E.I.T Vice President (Jul 2025–Present)\n\n:::\n:::"
   },
   {
     "objectID": "members.html#members",
     "href": "members.html#members",
     "title": "Members",
     "section": "Members",
-    "text": "Members\n\n\n\n\nJohan Mira\nGraduate Student\nMSc Student, Geotechnical Engineering\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nTemitope Babatunde\nGraduate Student\nMSc in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nDanilo Botero Lopez\nGraduate Student\nPhD in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nSebastian Carvajal\nGraduate Student\nMSc in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nAndres Espinosa\nGraduate Student\nMSc in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nCamilo Fernandez\nGraduate Student\nMSc in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nRakesh Pandit\nGraduate Student\nMSc in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nAbdul Aziz Umar\nGraduate Student\nMSc in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nPeta Fifield\nGraduate Student\nMSc in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nBabak Mahmoudi\nGraduate Student\nPhD in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nSK Belal Hossen\nGraduate Student\nPhD in Geotechnical Engineering, E.I.T\nResearch focus: To be added.\nEmail: insert email\nLinkedIn"
+    "text": "Members\n\n\n  ::: {.member-info} ### Andres Cordoba Ordonez, MSc. Ph.D. Student\n\n\n\n  ::: {.member-info} ### Zeynab Nazari, MSc. Ph.D. Student\n\n:::\n\n  ::: {.member-info} ### Saba Cyr, BSc., E.I.T Ph.D. Candidate\n\n:::\n\n  ::: {.member-info} ### Johan Mira, BSc. MSc. Student\n\n:::\n\n  ::: {.member-info} ### Temitope Omokinde, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Anthony Flores, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Danilo Botero Lopez, Ph.D., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Paula Sarmiento Robles, BSc. Ph.D. Student\n\n:::\n\n  ::: {.member-info} ### Sebastian Carvajal, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Andres Espinosa, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Camilo Fernandez, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Rakesh Pandit, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Abdul Aziz Umar, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Peta Fifield, MSc., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### Babak Mahmoudi, Ph.D., E.I.T Geotechnical Engineer\n\n:::\n\n  ::: {.member-info} ### SK Belal Hossen, Ph.D., E.I.T Geotechnical Engineer\n\n:::\n:::"
   },
   {
     "objectID": "members.html#faculty",
     "href": "members.html#faculty",
     "title": "Members",
     "section": "Faculty",
-    "text": "Faculty\n\n\n\n\nAaron Gallant\nFaculty Advisor\nPhD, P.E., Geotechnical Engineering\nResearch focus: To be added.\nEmail: insert email\nLinkedIn\n\n\n\n\n\nLuis Zambrano Cruzatty\nFormer Faculty Member\nPhD in Geotechnical Engineering\nResearch focus: To be added.\nEmail: insert email\nLinkedIn"
+    "text": "Faculty\n\n\n  ::: {.member-info} ### Aaron Gallant, Ph.D., P.E. Associate Professor\n\n\n\n  ::: {.member-info} ### Luis Zambrano Cruzatty, Ph.D., P.E. Former Assistant Professor\n\n:::\n:::"
   },
   {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "gallery",
+    "objectID": "members/sebastian-montoya.html",
+    "href": "members/sebastian-montoya.html",
+    "title": "Sebastian Montoya Vargas",
     "section": "",
-    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
+    "text": "PhD Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
   },
   {
-    "objectID": "gallery.html#professional-events",
-    "href": "gallery.html#professional-events",
-    "title": "gallery",
+    "objectID": "members/saba-cyr.html",
+    "href": "members/saba-cyr.html",
+    "title": "Saba Cyr",
     "section": "",
-    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
+    "text": "PhD Candidate in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
   },
   {
-    "objectID": "gallery.html#socials",
-    "href": "gallery.html#socials",
-    "title": "gallery",
-    "section": "Socials",
-    "text": "Socials"
+    "objectID": "members/luis-zambrano.html",
+    "href": "members/luis-zambrano.html",
+    "title": "Luis Zambrano Cruzatty",
+    "section": "",
+    "text": "Ph.D. Geotechnical Engineering, P.E.\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/danilo-botero.html",
+    "href": "members/danilo-botero.html",
+    "title": "Danilo Botero Lopez",
+    "section": "",
+    "text": "PhD Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/andres-cordoba.html",
+    "href": "members/andres-cordoba.html",
+    "title": "Andres Cordoba Ordonez",
+    "section": "",
+    "text": "PhD Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Geotechnical Student Organization",
+    "section": "",
+    "text": "Welcome to Geotechnical Student Organization at The University Of Maine\n\n\nLearn More\n\n\n\n\n\n\n\n\n\nAbout Us\n\nThe Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering.\n\n\n\n\n\n\n\nMission\n\nOur mission is to connect, support, and develop geotechnical engineering students through hands-on learning, professional engagement, and meaningful collaboration, preparing them to become skilled, innovative engineers who contribute to sustainable communities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVision\n\nOur vision is to be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence.\n\n\n\n\n\n\n\nGoal\n\nOur goal is to promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering.\n\n\n\n\n\n\n\n\n \n\nWho are we?\n\n\n\n\n \n\nLooking for workshop materials and presentations?\n\n\n\n\n \n\nWant to know more about our upcoming events?\n\n\n\n\n \n\nTake a look down memory lane!"
   },
   {
     "objectID": "donate.html",
@@ -105,39 +119,123 @@
     "text": "How your donation is used\n\nTechnical workshops and training\nGuest speakers and seminars\nStudent travel to conferences\nCommunity and outreach events\n\n\n\n  Donate via PayPal"
   },
   {
+    "objectID": "bylaws.html",
+    "href": "bylaws.html",
+    "title": "Bylaws",
+    "section": "",
+    "text": "The name of this organization shall be Geotechnical Student Organization at the University of Maine, hereinafter referred to as GSO or the Organization.\nGSO is a non-profit organization affiliated with the University of Maine and the Geo-Institute of ASCE and operates under the guidelines applicable to recognized student organizations.\nPrincipal Address:\nThe Geotechnical Student Organization\nCivil and Environmental Engineering Department\n5711 Boardman Hall\nRoom 229\nOrono, ME 04469"
+  },
+  {
+    "objectID": "bylaws.html#article-i-organization-identity",
+    "href": "bylaws.html#article-i-organization-identity",
+    "title": "Bylaws",
+    "section": "",
+    "text": "The name of this organization shall be Geotechnical Student Organization at the University of Maine, hereinafter referred to as GSO or the Organization.\nGSO is a non-profit organization affiliated with the University of Maine and the Geo-Institute of ASCE and operates under the guidelines applicable to recognized student organizations.\nPrincipal Address:\nThe Geotechnical Student Organization\nCivil and Environmental Engineering Department\n5711 Boardman Hall\nRoom 229\nOrono, ME 04469"
+  },
+  {
+    "objectID": "bylaws.html#article-ii-purpose-objectives",
+    "href": "bylaws.html#article-ii-purpose-objectives",
+    "title": "Bylaws",
+    "section": "ARTICLE II: PURPOSE & OBJECTIVES",
+    "text": "ARTICLE II: PURPOSE & OBJECTIVES\nThe purpose of the Geotechnical Student Organization is to promote academic, professional, and social engagement among students interested in geotechnical engineering and related fields. The Organization seeks to strengthen connections between students and the broader geotechnical engineering community, including academics, industry professionals, companies, institutes, and professional societies, particularly within the New England region.\nThe objectives of the Organization include facilitating knowledge exchange, encouraging collaboration, and providing opportunities for professional development through educational programming, networking, outreach, and experiential learning. Through these efforts, the Organization aims to promote geotechnical engineering as a discipline that plays a critical role in addressing infrastructure, environmental, and sustainability challenges."
+  },
+  {
+    "objectID": "bylaws.html#article-iii-mission",
+    "href": "bylaws.html#article-iii-mission",
+    "title": "Bylaws",
+    "section": "ARTICLE III: MISSION",
+    "text": "ARTICLE III: MISSION\nThe mission of the Geotechnical Student Organization is to provide a supportive and inclusive platform for geotechnical engineering students to connect, learn, and advance professionally.\nThe Organization fulfills this mission by organizing technical events, workshops, seminars, webinars, field trips, and networking opportunities that expose members to real-world challenges and practical solutions in geotechnical engineering.\nIn addition to technical and professional activities, the Organization seeks to foster a strong sense of community through collaborative and social events that encourage engagement and peer support. By cultivating a culture of collaboration, innovation, and excellence, the GSO aims to equip its members with the skills, knowledge, and experience necessary to contribute meaningfully to sustainable development and to succeed as future geotechnical engineering professionals."
+  },
+  {
+    "objectID": "bylaws.html#article-iv-membership",
+    "href": "bylaws.html#article-iv-membership",
+    "title": "Bylaws",
+    "section": "ARTICLE IV: MEMBERSHIP",
+    "text": "ARTICLE IV: MEMBERSHIP\n\nSection 1: Eligibility\nMembership is open to all students of the University of Maine and non-students who support the mission and objectives of the Organization and the University of Maine.\n\n\nSection 2: Categories of Membership\nGeneral Members: Graduate and Undergraduate students actively enrolled at the University of Maine.\nAssociate Members: Alumni, faculty, staff, and other individuals including honorary members or invited professionals. Associate Members do not possess voting rights and may not hold elected office.\nFor the purposes of these bylaws, Individual Members refers collectively to all members including Executive Board members, General Members, and Associate Members. Officers refers to elected members of the Executive Board.\n\n\nSection 3: Rights & Responsibilities\nGeneral Members shall have the right to vote on Organization matters and to hold elected office.\nIndividual Members are expected to comply with these bylaws, uphold the mission of the Organization, and conduct themselves in a professional and respectful manner.\n\n\nSection 4: Attendance & Participation\nIndividual Members are encouraged to actively participate in meetings and activities. Failure to participate regularly shall not result in loss of membership unless otherwise determined by the Executive Board.\n\n\nSection 5: Membership Dues\nThe Organization may establish membership dues if required by the University of Maine or deemed necessary by the Executive Board. Any dues shall be determined by a two-thirds majority vote of the General Members and shall be used solely to support Organization activities.\n\n\nSection 6: Termination of Membership\nMembership may be suspended or terminated for conduct inconsistent with the mission, bylaws, or code of conduct. Termination requires a two-thirds majority vote of the Executive Board, with two prior notices and one opportunity to be heard."
+  },
+  {
+    "objectID": "bylaws.html#article-v-code-of-conduct-ethics",
+    "href": "bylaws.html#article-v-code-of-conduct-ethics",
+    "title": "Bylaws",
+    "section": "ARTICLE V: CODE OF CONDUCT & ETHICS",
+    "text": "ARTICLE V: CODE OF CONDUCT & ETHICS\n\nSection 1: Professional Conduct\nMembers shall conduct themselves in a professional, respectful, and ethical manner and represent the Organization and the University of Maine with integrity.\n\n\nSection 2: Nondiscrimination & Inclusion\nThe Organization shall not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, or any other protected status.\n\n\nSection 3: Ethical Responsibility\nMembers shall act in the best interests of the Organization and avoid conflicts of interest. Ethical breaches shall be reviewed by the Executive Board.\n\n\nSection 4: Use of Organization Funds & Assets\nOrganization funds and assets shall be used solely for official purposes. Misuse may result in disciplinary action.\n\n\nSection 5: Conflict Resolution\nMembers are encouraged to resolve disputes informally. If necessary, the Executive Board or Faculty Advisor shall mediate."
+  },
+  {
+    "objectID": "bylaws.html#article-xiii-dissolution",
+    "href": "bylaws.html#article-xiii-dissolution",
+    "title": "Bylaws",
+    "section": "ARTICLE XIII: DISSOLUTION",
+    "text": "ARTICLE XIII: DISSOLUTION\nThe Organization may be dissolved by a two-thirds majority vote of the General Members present at a duly called meeting.\nUpon dissolution, all remaining funds and assets shall be transferred to the University of Maine or a University-recognized organization consistent with the mission. No Individual Member shall receive any portion of the Organization’s assets."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Us",
     "section": "",
-    "text": "Get in Touch\n\n\nHave a question about GSO, workshops, or membership?\nSend us a message and we’ll get back to you.\n\n\n\n\n\n\n  \n    \n    \n    \n  \n\n  \n    \n  \n\n  \n    Send Message"
+    "text": "Get in Touch\n\n\nHave a question about GSO, workshops, or membership? Send us a message and we’ll get back to you.\n\n\n\n\n\n\n  \n    \n    \n    \n  \n\n  \n\n  \n    Send Message"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "gallery",
     "section": "",
-    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
+    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
   },
   {
-    "objectID": "events.html#upcoming-events",
-    "href": "events.html#upcoming-events",
-    "title": "Events",
+    "objectID": "gallery.html#professional-events",
+    "href": "gallery.html#professional-events",
+    "title": "gallery",
     "section": "",
-    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
+    "text": "or just create a gallery that you can scroll through or clikc to go to next photo"
   },
   {
-    "objectID": "events.html#past-events",
-    "href": "events.html#past-events",
-    "title": "Events",
-    "section": "Past Events",
-    "text": "Past Events\n\nEvent 1\nDescription\n\n\nEvent 2\nDescription\n\n\nEvent 3\nDescription"
+    "objectID": "gallery.html#socials",
+    "href": "gallery.html#socials",
+    "title": "gallery",
+    "section": "Socials",
+    "text": "Socials"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Geotechnical Student Organization",
+    "objectID": "members/aaron-gallant.html",
+    "href": "members/aaron-gallant.html",
+    "title": "Aaron Gallant",
     "section": "",
-    "text": "Welcome to Geotechnical Student Organization at The University Of Maine\n\n\nLearn More\n\n\n\n\n\n\n\n\n\nAbout Us\n\nThe Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering.\n\n\n\n\n\n\n\nMission\n\nOur mission is to connect, support, and develop geotechnical engineering students through hands-on learning, professional engagement, and meaningful collaboration, preparing them to become skilled, innovative engineers who contribute to sustainable communities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVision\n\nOur vision is to be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence.\n\n\n\n\n\n\n\nGoal\n\nOur goal is to promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering.\n\n\n\n\n\n\n\n\n \n\nWho are we?\n\n\n\n\n \n\nLooking for workshop materials and presentations?\n\n\n\n\n \n\nWant to know more about our upcoming events?\n\n\n\n\n \n\nTake a look down memory lane!"
+    "text": "Ph.D. Geotechnical Engineering, P.E.\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/anthony-flores.html",
+    "href": "members/anthony-flores.html",
+    "title": "Anthony Flores",
+    "section": "",
+    "text": "MSc. in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/johan-mira.html",
+    "href": "members/johan-mira.html",
+    "title": "Johan Mira",
+    "section": "",
+    "text": "MSc Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
+  },
+  {
+    "objectID": "members/rakesh-pandit.html",
+    "href": "members/rakesh-pandit.html",
+    "title": "Rakesh Pandit",
+    "section": "",
+    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/sebastian-carvajal.html",
+    "href": "members/sebastian-carvajal.html",
+    "title": "Sebastian Carvajal",
+    "section": "",
+    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/zeynab-nazari.html",
+    "href": "members/zeynab-nazari.html",
+    "title": "Zeynab Nazari",
+    "section": "",
+    "text": "PhD Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
   },
   {
     "objectID": "news.html",
@@ -156,6 +254,27 @@
   {
     "objectID": "news.html#past-events",
     "href": "news.html#past-events",
+    "title": "Resources",
+    "section": "Past Events",
+    "text": "Past Events\n\nEvent 1\nDescription\n\n\nEvent 2\nDescription\n\n\nEvent 3\nDescription"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
+  },
+  {
+    "objectID": "resources.html#upcoming-events",
+    "href": "resources.html#upcoming-events",
+    "title": "Resources",
+    "section": "",
+    "text": "Description\n\n\n\nDescription\n\n\n\nDescription"
+  },
+  {
+    "objectID": "resources.html#past-events",
+    "href": "resources.html#past-events",
     "title": "Resources",
     "section": "Past Events",
     "text": "Past Events\n\nEvent 1\nDescription\n\n\nEvent 2\nDescription\n\n\nEvent 3\nDescription"
