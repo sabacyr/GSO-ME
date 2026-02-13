@@ -1,0 +1,364 @@
+---
+title: "Upcoming Events"
+page-layout: full
+body-classes: events-page
+---
+
+## Professional Events
+
+::: {.event-grid}
+
+::: {.event-card .confirmed}
+
+### Study Sessions
+
+**February 16, 2026 | 02:00 – 03:00 PM**  
+**Location:** 120 Fogler Library  
+
+Open to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions will include FE prep, homework review, and exam preparation.
+
+:::
+
+::: {.event-card .confirmed}
+
+### Geo-Congress Conference 2026
+
+**March 9, 2026 | 08:00 AM - 04:00 PM**  
+**Location:** Salt Lake City, Utah, USA
+
+Description of this event.
+
+:::
+
+::: {.event-card .in-progress}
+
+### Drone Training Workshop
+
+**Tentative Timeline:** April–May 2026
+**Location:** University Mall, University of Maine  
+
+Technical seminar on drone applications in geotechnical and coastal engineering will be held 4 weeks prior to the flying workshop. GSO and COPRI will coordinate licensing for participants.
+
+:::
+
+::: {.event-card .confirmed}
+
+### Liquefaction Tank
+
+**Completion by May 2026**  
+**Location:** Advanced Geotechnical Lab, Boardman Hall, University of Maine  
+
+Final construction and demonstration planning underway.
+
+:::
+
+::: {.event-card .in-progress}
+
+### Data Analysis Workshop
+
+**September 18, 2026 | 01:00 – 03:00 PM**  
+**Location:** 312 Boardman Hall, University of Maine  
+
+Data analysis session (1–3 PM). Potential collaboration with S.W. Cole and integration with CE 460.
+
+:::
+
+::: {.event-card .in-progress}
+
+### Faculty Interview Series
+
+Bi-Monthly spotlight featuring faculty and their research groups. 
+
+To be shared on website and social media.
+
+:::
+
+::: {.event-card .in-progress}
+
+### GSO Website Development
+
+Ongoing improvements. Member input and design suggestions welcome.
+
+:::
+
+::: {.event-card .completed}
+
+### CIE Department New Member Seminar
+
+**February 4, 2026 | 03:30 – 05:00 PM**  
+**Location:** 115 Boardman Hall 
+
+Description of this event.
+
+[View Flyer](Images/Flyers/CIE New Member Seminar.pdf){.flyer-btn}
+:::
+
+::: {.event-card .completed}
+
+### Geotechnical Frontiers 2025
+
+**March 2-5, 2025 | 09:00 AM - 04:00 PM**  
+**Location:** Kentucky International Convention Center
+
+Description of this event.
+
+:::
+
+::: {.event-card .completed}
+
+### Engineering Expo 2025
+
+**March 8, 2025 | 09:00 AM - 04:00 PM**  
+**Location:** New Balance Center, University of Maine
+
+Description of this event.
+
+:::
+
+::: {.event-card .completed}
+
+### Geo-Conneticut Conference 2025
+
+**September 26, 2025 | 09:00 AM - 04:00 PM**  
+**Location:** Sheraton Hartford South, Rocky Hill, Connecticut
+
+Description of this event.
+
+[View Article](Images/Flyers/CIE New Member Seminar.pdf){.flyer-btn}
+
+:::
+
+::: {.event-card .completed}
+
+### Geo-Congress Conference 2024
+
+**February 25-27, 2024 | 08:00 AM - 04:00 PM**  
+**Location:** Vancouver, British Columbia, Canada
+
+Description of this event.
+
+:::
+
+::: {.event-card .completed}
+
+### Company Recruiter Visit
+
+**October 18, 2023 | 11:00 – 12:00 PM**  
+**Location:** 310 Boardman Hall 
+
+Description of this event.
+
+[View Agenda](Images/Flyers/RecruiterAgenda.pdf){.flyer-btn}
+
+:::
+
+::: {.event-card .completed}
+
+### International Geo-Talks Seminar
+
+**October 2023 through January 2024**  
+**Location:** In person and online
+
+Description of this event.
+
+[View Flyer](Images/Flyers/International Talk.jpg){.flyer-btn}
+
+:::
+
+::: {.event-card .completed}
+
+### GEOSTRATA Interview with Dr. Patricia Culligan
+
+**July 7, 2023 | 10:00 - 12:00 PM**  
+**Published in GEOSTRATA magazine** 
+
+Description of this event.
+
+[View Article](https://www.readgeo.com/geostrata/june_july_2024/MobilePagedArticle.action?articleId=1982926&app=false&cmsId=4199715#articleId1982926){.flyer-btn}
+
+:::
+
+:::
+
+---
+
+## Social Events
+
+::: {.event-grid}
+
+::: {.event-card .confirmed}
+
+### GSO XC Ski Day
+
+**February 20, 2026 | 2:30 PM**  
+**Location:** Rec Center Trails, University of Maine  
+
+Rental: $10  
+
+[View Flyer](Images/Flyers/XC-Skiing.png){.flyer-btn}
+
+:::
+
+::: {.event-card .confirmed}
+
+### February Happy Hour
+
+**February 20, 2026 | 04:30 PM**  
+**Location:** 2 Hammond Street Canal Side, Bangor, ME  
+
+Monthly happy hour at Barliman's in Bangor.
+
+:::
+
+::: {.event-card .confirmed}
+
+### March Happy Hour
+
+**March 20, 2026 | 04:30 PM**  
+**Location:** 31 Main St, Orono, ME 04473  
+
+Monthly happy hour at Woodman's Bar and Grill in downtown Orono.
+
+:::
+
+::: {.event-card .confirmed}
+
+### April Happy Hour
+
+**April 24, 2026 | 04:30 PM**  
+**Location:** 11 Central St, Bangor, ME 04401  
+
+Monthly happy hour at 11 Central in Bangor.
+
+:::
+
+::: {.event-card .in-progress}
+
+### CIE End of Year Celebration
+
+**May 15, 2026 | 04:00 PM**  
+**Location:** University Mall in front of Boardman Hall, University of Maine  
+
+Collaboration with ASCE, CIE Department, COPRI, and Chi Epsilon.
+
+:::
+
+::: {.event-card .confirmed}
+
+### Hike & Lunch in Acadia
+
+**May 23, 2026 | 10:00 AM**  
+**Location:** Seal Harbor, ME 04675  
+
+Jordan Pond trail head and doing the Jordan Pond loop followed by lunch at Jordan Pond House.
+
+:::
+
+::: {.event-card .confirmed}
+
+### Pushaw Dam Paddling
+
+**June 20, 2026 | 10:00 AM**  
+**Location:** Hirundo Wildlife Refuge, Old Town, ME  
+
+Group paddle to Pushaw Dam and social gathering.
+
+:::
+
+::: {.event-card .confirmed}
+
+### Beach Day
+
+**July 24, 2026 | 09:00 AM**  
+**Location:** Ogunquit Beach  
+
+Day trip to Ogunquit Beach. Optional overnight stay depending on group interest.
+
+:::
+
+::: {.event-card .confirmed}
+
+### Treworgy Family Orchard
+
+**August 15, 2026 | 10:00 AM**  
+**Location:** 3876 Union St, Levant, ME 04456  
+
+Visit to Treworgy orchards including seasonal activities and corn maze.
+
+:::
+
+::: {.event-card .completed}
+
+### Graduation Social
+
+**May 10, 2025 | 01:00 PM**  
+**Location:** Shared with attendees.
+
+Description of the event
+
+:::
+
+::: {.event-card .completed}
+
+### Graduation Social
+
+**April 20, 2024 | 04:00 PM**  
+**Location:** Shared with attendees.
+
+Description of the event
+
+:::
+
+::: {.event-card .completed}
+
+### CIE End of Year Celebration
+
+**April 15, 2023 | 04:00 PM**  
+**Location:** University Mall in front of Boardman Hall, University of Maine  
+
+Collaboration with ASCE, CIE Department, COPRI, and Chi Epsilon.
+
+:::
+
+::: {.event-card .completed}
+
+### Opening BBQ Event
+
+**April 7, 2023 | 05:30 PM**  
+**Location:** The Avenue at Orono Club House  
+
+Description of the event
+
+:::
+
+::: {.event-card .completed}
+
+### Spring BBQ
+
+**April 7, 2023 | 05:30 PM**  
+**Location:** The Avenue at Orono Club House  
+
+Description of the event
+
+:::
+
+::: {.event-card .completed}
+
+### Fall BBQ 
+
+**October 10, 2022 | 10:00 AM**  
+**Location:** Shared with attendees.
+
+Description of the event
+
+:::
+
+:::
+
+---
+
+## Subscribe to Our Event Calendar
+
+Stay updated by subscribing to our shared GSO calendar.
+
+[Subscribe Here](calendar.html){.learn-btn}

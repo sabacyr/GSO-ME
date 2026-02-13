@@ -1,9 +1,31 @@
 ---
 title: "gallery"
+page-layout: full
+body-classes: gallery-page
+lightbox: true
 ---
 
-## Professional Events
-or just create a gallery that you can scroll through or clikc to go to next photo
+## XC Ski Day — February 2026
 
-## Socials
+::: {.gallery-grid}
+
+![](Images/Gallery/XC-Ski/xc1.jpg)
+![](Images/Gallery/XC-Ski/xc2.jpg)
+![](Images/Gallery/XC-Ski/xc3.jpg)
+![](Images/Gallery/XC-Ski/xc4.jpg)
+
+:::
+
+---
+
+## Drone Workshop — Spring 2026
+
+::: {.gallery-grid}
+
+![](Images/Gallery/Drone/drone1.jpg)
+![](Images/Gallery/Drone/drone2.jpg)
+![](Images/Gallery/Drone/drone3.jpg)
+
+:::
+
 

@@ -15,30 +15,48 @@ GSO also creates a supportive and inclusive environment where students can build
 ::: {.member-grid}
 
 ::: {.member-card}
+
 <a class="card-link" href="members/andres-cordoba.html" aria-label="Andres Cordoba Ordonez profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/andres-cordoba.jpg){.andres-cordoba-photo}
+
 ::: {.member-info}
+
 ### Andres Cordoba Ordonez, MSc.
 **President (Jul 2025–Present)**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/sebastian-montoya.html" aria-label="Sebastian Montoya Vargas profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/sebastian-montoya.jpg){.sebastian-montoya-photo}
+
 ::: {.member-info}
+
 ### Sebastian Montoya Vargas, Ph.D., E.I.T
 **Past President (Jan 2025–Jul 2025)**
+
 :::
+
 :::
 
 ::: {.member-card}
+
 <a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/saba-cyr.jpg){.saba-cyr-photo}
+
 ::: {.member-info}
+
 ### Saba Cyr, BSc., E.I.T
 **Past President (Jan 2023–Jan 2025)**
+
 :::
+
 :::
 
 :::
@@ -48,21 +66,33 @@ GSO also creates a supportive and inclusive environment where students can build
 ::: {.member-grid}
 
 ::: {.member-card}
+
 <a class="card-link" href="members/zeynab-nazari.html" aria-label="Zeynab Nazari profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/zeynab-nazari.jpg){.zeynab-nazari-photo}
+
 ::: {.member-info}
+
 ### Zeynab Nazari, MSc.
 **Vice President (Jul 2025–Present)**
+
 :::
+
 :::
 
 ::: {.member-card}
+
 <a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/saba-cyr.jpg){.saba-cyr}
+
 ::: {.member-info}
+
 ### Saba Cyr, BSc., E.I.T
 **Vice President (Jul 2025–Present)**
+
 :::
+
 :::
 
 :::
@@ -72,147 +102,243 @@ GSO also creates a supportive and inclusive environment where students can build
 ::: {.member-grid}
 
 ::: {.member-card}
+
 <a class="card-link" href="members/andres-cordoba.html" aria-label="Andres Cordoba Ordonez profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/andres-cordoba.jpg){.andres-cordoba-photo}
+
 ::: {.member-info}
+
 ### Andres Cordoba Ordonez, MSc.
 **Ph.D. Student**
+
 :::
+
 :::
 
 ::: {.member-card}
+
 <a class="card-link" href="members/zeynab-nazari.html" aria-label="Zeynab Nazari profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/zeynab-nazari.jpg){.zeynab-nazari-photo}
+
 ::: {.member-info}
+
 ### Zeynab Nazari, MSc.
 **Ph.D. Student**
+
 :::
+
 :::
 
 ::: {.member-card}
+
 <a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/saba-cyr.jpg){.saba-cyr}
+
 ::: {.member-info}
+
 ### Saba Cyr, BSc., E.I.T
 **Ph.D. Candidate**
+
 :::
+
 :::
 
 ::: {.member-card}
+
 <a class="card-link" href="members/johan-mira.html" aria-label="Johan Mira profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/johan-mira.jpg){.johan-mira}
+
 ::: {.member-info}
+
 ### Johan Mira, BSc.
 **MSc. Student**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/temitope-omokinde.html" aria-label="Temitope Omokinde profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/temitope-omokinde.jpg){.temitope-omokinde-photo}
+
 ::: {.member-info}
+
 ### Temitope Omokinde, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/anthony-flores.html" aria-label="Anthony Flores profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/anthony-flores.jpg){.anthony-flores-photo}
+
 ::: {.member-info}
+
 ### Anthony Flores, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/danilo-botero.html" aria-label="Danilo Botero Lopez profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/danilo-botero.jpg){.danilo-botero-photo}
+
 ::: {.member-info}
+
 ### Danilo Botero Lopez, Ph.D., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/paula-sarmiento.html" aria-label="Paula Sarmiento Robles profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/paula-sarmiento.jpg){.paula-sarmiento}
+
 ::: {.member-info}
+
 ### Paula Sarmiento Robles, BSc.
 **Ph.D. Student**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/sebastian-carvajal.html" aria-label="Sebastian Carvajal profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/sebastian-carvajal.jpg){.sebastian-carvajal-photo}
+
 ::: {.member-info}
+
 ### Sebastian Carvajal, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/andres-espinosa.html" aria-label="Andres Espinosa profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/andres-espinosa.jpg){.andres-espinosa-photo}
+
 ::: {.member-info}
+
 ### Andres Espinosa, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/camilo-fernandez.html" aria-label="Camilo Fernandez profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/camilo-fernandez.jpg){.camilo-fernandez-photo}
+
 ::: {.member-info}
+
 ### Camilo Fernandez, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/rakesh-pandit.html" aria-label="Rakesh Pandit profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/rakesh-pandit.jpg){.rakesh-pandit-photo}
+
 ::: {.member-info}
+
 ### Rakesh Pandit, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/abdul-aziz-umar.html" aria-label="Abdul Aziz Umar profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/abdul-aziz.jpg){.abdul-aziz-photo}
+
 ::: {.member-info}
+
 ### Abdul Aziz Umar, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/peta-fifield.html" aria-label="Peta Fifield profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/peta-fifield.jpg){.peta-fifield-photo}
+
 ::: {.member-info}
+
 ### Peta Fifield, MSc., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/babak-mahmoudi.html" aria-label="Babak Mahmoudi profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/babak-mahmoudi.jpg){.babak-mahmoudi-photo}
+
 ::: {.member-info}
+
 ### Babak Mahmoudi, Ph.D., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/sk-belal-hossen.html" aria-label="SK Belal Hossen profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/belal-hossen.jpg){.belal-hossen-photo}
+
 ::: {.member-info}
+
 ### SK Belal Hossen, Ph.D., E.I.T
 **Geotechnical Engineer**
+
 :::
+
 :::
 
 :::
@@ -222,21 +348,33 @@ GSO also creates a supportive and inclusive environment where students can build
 ::: {.member-grid}
 
 ::: {.member-card}
+
 <a class="card-link" href="members/aaron-gallant.html" aria-label="Aaron Gallant profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/aaron-gallant.jpg){.aaron-gallant-photo}
+
 ::: {.member-info}
+
 ### Aaron Gallant, Ph.D., P.E.
 **Associate Professor**
+
 :::
+
 :::
 
 ::: {.member-card .alumni}
+
 <a class="card-link" href="members/luis-zambrano-cruzatty.html" aria-label="Luis Zambrano Cruzatty profile" target="_blank" rel="noopener"></a>
+
 ![](Images/Members/luis-zambrano.jpg){.luis-zambrano-photo}
+
 ::: {.member-info}
+
 ### Luis Zambrano Cruzatty, Ph.D., P.E.
 **Former Assistant Professor**
+
 :::
+
 :::
 
 :::

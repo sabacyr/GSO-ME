@@ -1,3 +1,8 @@
+/* ==========================================================
+   GLOBAL BASE STYLES (ALL PAGES)
+   ========================================================== */
+
+/* Base body styling */
 body {
   line-height: 1.6;
   padding-top: 70px;
@@ -7,12 +12,22 @@ body {
   font-size: 1.25rem;
 }
 
+/* Base heading spacing */
 h1, h2, h3 {
   margin-top: 2.5rem;
 }
 
-/* ======= HEADER: NAVIGATION BAR STYLE ======= */
+/* Smooth scrolling (all pages) */
+html {
+  scroll-behavior: smooth;
+}
 
+
+/* ==========================================================
+   HEADER / NAVBAR (ALL PAGES)
+   ========================================================== */
+
+/* Navbar wrapper */
 .custom-navbar {
   display: flex;
   justify-content: space-between;
@@ -21,7 +36,7 @@ h1, h2, h3 {
   padding: 0.75rem 2rem;
 }
 
-/* LEFT SIDE (LOGO + TEXT) */
+/* Navbar left (logo + text) */
 .nav-left {
   display: flex;
   align-items: center;
@@ -40,7 +55,7 @@ h1, h2, h3 {
   white-space: nowrap;
 }
 
-/* RIGHT SIDE (NAV LINKS) */
+/* Navbar right (links) */
 .nav-right {
   display: flex;
   align-items: center;
@@ -58,35 +73,36 @@ h1, h2, h3 {
   position: relative;
 }
 
-/* ICONS */
+/* Navbar icons */
 .nav-icon {
   height: 20px;
   width: auto;
   filter: brightness(0) invert(1);
 }
 
-/* HOVER: text + icon */
+/* Navbar hover (text) */
 .custom-navbar a:hover {
-  color:#c3f2ff;
+  color: #c3f2ff;
 }
 
+/* Navbar hover (icon) */
 .custom-navbar a:hover .nav-icon {
-  filter: brightness(0) saturate(100%) invert(92%) sepia(14%) 
-saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
+  filter: brightness(0) saturate(100%) invert(92%) sepia(14%)
+    saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
 }
 
-/* ACTIVE PAGE (AUTOMATIC VIA JS) */
+/* Navbar active link */
 .nav-right a.active {
   color: #c3f2ff;
   font-weight: 700;
 }
 
 .nav-right a.active .nav-icon {
-  filter: brightness(0) saturate(100%) invert(92%) sepia(14%) 
-saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
+  filter: brightness(0) saturate(100%) invert(92%) sepia(14%)
+    saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
 }
 
-/* ANIMATED UNDERLINE */
+/* Navbar underline animation */
 .nav-right a::after {
   content: "";
   position: absolute;
@@ -105,8 +121,10 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   transform: scaleX(1);
 }
 
-/* ======= Drop down menu container ======= */
 
+/* ==========================================================
+   DROPDOWN MENU (ALL PAGES)
+   ========================================================== */
 
 /* Dropdown container */
 .dropdown {
@@ -114,7 +132,7 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   display: inline-block;
 }
 
-/* Dropdown content */
+/* Dropdown panel */
 .dropdown-content {
   position: absolute;
   top: 100%;
@@ -147,25 +165,30 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   background-color: #47587f;
 }
 
-/* Animate on hover */
+/* Open dropdown on hover */
 .dropdown:hover .dropdown-content {
   opacity: 1;
   transform: translateY(0);
   pointer-events: auto;
 }
 
-/* ======= TABLE OF CONTENT ======= */
+
+/* ==========================================================
+   TABLE OF CONTENTS (ALL PAGES)
+   ========================================================== */
+
+/* TOC container */
 #TOC {
   position: fixed;
-  top: 120px;              /* distance from top (adjust for navbar height) */
-  right: 3.5rem;           /* distance from right edge */
-  width: 300px;            /* overall width */
+  top: 120px;
+  right: 3.5rem;
+  width: 300px;
   padding: 1.5rem;
-  font-size: 1.05rem;      /* base text size */
-  background: #FFFAF2;     /* match site background */
+  font-size: 1.05rem;
+  background: #FFFAF2;
   border-radius: 18px;
   box-shadow: 0px 0px 30px rgba(71, 88, 127, 0.6);
-  max-height: 75vh;        /* prevents overflow */
+  max-height: 75vh;
   overflow-y: auto;
   z-index: 100;
 }
@@ -185,43 +208,48 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   line-height: 1.6;
 }
 
-/* ======= HOME PAGE STYLE ======= */
 
-/* Full-screen hero container for the logo, background img, button*/
+/* ==========================================================
+   HOMEPAGE (index.qmd)
+   ========================================================== */
 
+/* Hero overlay */
 .hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(255,255,255, 0.7);   /* adjust opacity here */
+  background: rgba(255, 255, 255, 0.7);
   z-index: 1;
 }
 
+/* Keep hero contents above overlay */
 .hero > * {
   position: relative;
   z-index: 2;
 }
 
+/* Hero container */
 .hero {
   position: relative;
   left: 50%;
-  margin-left: -50vw;   /* pulls it back to true center */
-  width: 100vw;         /* full viewport width */
-  height: calc(100vh - 52px);      /* full screen height */
+  margin-left: -50vw;
+  width: 100vw;
+  height: calc(100vh - 52px);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
   background-image: url("Images/Icons/Hero background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin-top: -52px;   /* same height as your navbar */
-  padding-top: 70px;   /* keeps content from hiding under navbar */
+
+  margin-top: -52px;
+  padding-top: 70px;
 }
 
-
-/* container for the texts on this page */
+/* Homepage text container */
 .content-container {
   width: 100vw;
   margin: 0 auto;
@@ -229,7 +257,7 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   font-size: 1.1rem;
 }
 
-/* Large responsive logo with fade-in */
+/* Homepage hero logo */
 .hero-logo {
   width: 100vw;
   max-width: 900px;
@@ -238,7 +266,7 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   animation: fadeIn 1.2s ease forwards;
 }
 
-/* Fade-in animation for the logo*/
+/* Logo fade in animation */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -250,7 +278,7 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   }
 }
 
-/*the welcome text below the logo */
+/* Welcome text band */
 .intro-band {
   max-width: 900px;
   margin: 0 auto 0 auto;
@@ -262,14 +290,13 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   color: #373a3c;
 }
 
-/* Learn more button below the welcome text */
-/* ===== Learn More Button ===== */
-
+/* Learn more button wrapper */
 .learn-btn-wrapper {
   margin-top: 2rem;
   text-align: center;
 }
 
+/* Learn more button */
 .learn-btn {
   position: relative;
   display: inline-block;
@@ -277,13 +304,13 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   font-size: 1.2rem;
   font-weight: 600;
   text-decoration: none;
-  color:  #373a3c;
+  color: #373a3c;
   border-radius: 30px;
   background: transparent;
   z-index: 0;
 }
 
-/* snake border */
+/* Learn more snake border */
 .learn-btn::before {
   content: "";
   position: absolute;
@@ -307,49 +334,36 @@ saturate(580%) hue-rotate(170deg) brightness(98%) contrast(96%);
   background-size: 400% 100%;
   animation: snakeBorder 8s linear infinite;
 
-  mask:
-    linear-gradient(#000 0 0) content-box,
-    linear-gradient(#000 0 0);
+  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
   mask-composite: exclude;
   -webkit-mask-composite: xor;
 
   z-index: -1;
 }
 
-@keyframes snakeBorder {
-  from {
-    background-position: 0% 50%;
-  }
-  to {
-    background-position: 400% 50%;
-  }
-}
-
-
-/* hover effect */
+/* Learn more hover */
 .learn-btn:hover {
   transform: translateY(-5px);
   transition: 0.4s ease;
 }
 
-/* smooth scroll */
-html {
-  scroll-behavior: smooth;
-}
-
-/* space below the button and the about us header */
+/* Section spacing below Learn More */
 .about-margin-button {
   margin-top: 10rem;
 }
 
-/* ======= About Section ======= */
+/* ==========================================================
+   HOMEPAGE: ABOUT SECTION (index.qmd)
+   ========================================================== */
+
+/* About section top fade */
 .about-split::before {
   content: "";
   position: absolute;
-  top: -50px;          /* how far upward the fade extends */
+  top: -50px;
   left: 0;
   width: 100%;
-  height: 100px;        /* height of fade zone */
+  height: 100px;
   background: linear-gradient(
     to bottom,
     #FFFAF2 0%,
@@ -360,17 +374,17 @@ html {
   z-index: 3;
 }
 
+/* About section layout */
 .about-split {
   position: relative;
   left: 50%;
   margin-left: -50vw;
   width: 100vw;
-  height: 1002px;   /* change this value */
+  height: 1002px;
   display: flex;
 }
 
-/* IMAGE SIDE (65%) */
-
+/* About: image column */
 .about-image {
   flex: 0 0 65%;
   position: relative;
@@ -383,16 +397,14 @@ html {
   display: block;
 }
 
-/* LONG FADE INTO TAN (600px zone) */
-
+/* About: image fade into panel */
 .about-image::after {
   content: "";
   position: absolute;
   top: 0;
   right: 0;
   height: 100%;
-  width: 800px;   /* total fade distance */
-
+  width: 800px;
   background: linear-gradient(
     to right,
     rgba(71, 88, 127, 0) 0%,
@@ -400,12 +412,10 @@ html {
     rgba(71, 88, 127, 0.6) 75%,
     #47587f 100%
   );
-
   pointer-events: none;
 }
 
-/* TEXT SIDE (35%) */
-
+/* About: text panel */
 .about-text {
   flex: 0 0 35%;
   background-color: #47587f;
@@ -415,55 +425,45 @@ html {
   justify-content: center;
 }
 
-.about-text-inner {
-  max-width: 500px;
-  padding: 60px 40px;
-  line-height: 1.7;
-  font-size: 1.05rem;
-}
-
+/* About: panel fade edge */
 .about-text::before {
   content: "";
   position: absolute;
-  left: -300px;   /* width of fade zone */
+  left: -300px;
   top: 0;
   height: 100%;
   width: 300px;
-  background: linear-gradient(
-    to right,
-    rgba(179,148,105,0),
-    #47587f
-  );
+  background: linear-gradient(to right, rgba(179, 148, 105, 0), #47587f);
 }
 
+/* About: text box */
 .about-text-inner {
-  position: relative;          /* needed for label positioning */
+  position: relative;
   max-width: 500px;
   padding: 50px 40px 40px 40px;
   line-height: 1.7;
   font-size: 1.3rem;
-
   border: 2px solid #f5f5df;
   border-radius: 8px;
 }
 
-/* LABEL ON BORDER */
-
+/* About: label */
 .about-label {
   position: absolute;
   top: -20px;
   left: 30px;
-
-  background-color: #47587f;   /* same as panel color */
+  background-color: #47587f;
   padding: 0 12px;
-
   font-weight: 700;
   font-size: 1.4rem;
   letter-spacing: 1px;
 }
 
 
-/* ======= Mission Section ======= */
+/* ==========================================================
+   HOMEPAGE: MISSION SECTION (index.qmd)
+   ========================================================== */
+
 .mission-split {
   position: relative;
   left: 50%;
@@ -472,8 +472,6 @@ html {
   height: 928px;
   display: flex;
 }
-
-/* TEXT SIDE (35%) */
 
 .mission-text {
   flex: 0 0 35%;
@@ -491,12 +489,9 @@ html {
   padding: 50px 40px 40px 40px;
   font-size: 1.3rem;
   line-height: 1.7;
-
   border: 2px solid #f5f5df;
   border-radius: 8px;
 }
-
-/* LABEL */
 
 .mission-label {
   position: absolute;
@@ -508,8 +503,6 @@ html {
   font-size: 1.4rem;
   letter-spacing: 1px;
 }
-
-/* IMAGE SIDE (65%) */
 
 .mission-image {
   flex: 0 0 65%;
@@ -523,8 +516,6 @@ html {
   display: block;
 }
 
-/* FADE FROM IMAGE INTO TAN (LEFTWARD) */
-
 .mission-image::after {
   content: "";
   position: absolute;
@@ -532,7 +523,6 @@ html {
   left: 0;
   height: 100%;
   width: 800px;
-
   background: linear-gradient(
     to left,
     rgba(71, 88, 127, 0) 0%,
@@ -540,21 +530,22 @@ html {
     rgba(71, 88, 127, 0.6) 75%,
     #47587f 100%
   );
-
   pointer-events: none;
 }
 
-/* ======= Vision Section ======= */
+
+/* ==========================================================
+   HOMEPAGE: VISION SECTION (index.qmd)
+   ========================================================== */
+
 .vision-split {
   position: relative;
   left: 50%;
   margin-left: -50vw;
   width: 100vw;
-  height: 922px;   /* change this value */
+  height: 922px;
   display: flex;
 }
-
-/* IMAGE SIDE (65%) */
 
 .vision-image {
   flex: 0 0 65%;
@@ -568,16 +559,13 @@ html {
   display: block;
 }
 
-/* LONG FADE INTO TAN (600px zone) */
-
 .vision-image::after {
   content: "";
   position: absolute;
   top: 0;
   right: 0;
   height: 100%;
-  width: 800px;   /* total fade distance */
-
+  width: 800px;
   background: linear-gradient(
     to right,
     rgba(71, 88, 127, 0) 0%,
@@ -585,11 +573,8 @@ html {
     rgba(71, 88, 127, 0.6) 75%,
     #47587f 100%
   );
-
   pointer-events: none;
 }
-
-/* TEXT SIDE (35%) */
 
 .vision-text {
   flex: 0 0 35%;
@@ -600,55 +585,42 @@ html {
   justify-content: center;
 }
 
-.vision-text-inner {
-  max-width: 500px;
-  padding: 60px 40px;
-  line-height: 1.7;
-  font-size: 1.05rem;
-}
-
 .vision-text::before {
   content: "";
   position: absolute;
-  left: -300px;   /* width of fade zone */
+  left: -300px;
   top: 0;
   height: 100%;
   width: 300px;
-  background: linear-gradient(
-    to right,
-    rgba(179,148,105,0),
-    #47587f
-  );
+  background: linear-gradient(to right, rgba(179, 148, 105, 0), #47587f);
 }
 
 .vision-text-inner {
-  position: relative;          /* needed for label positioning */
+  position: relative;
   max-width: 500px;
   padding: 50px 40px 40px 40px;
   line-height: 1.7;
   font-size: 1.3rem;
-
   border: 2px solid #f5f5df;
   border-radius: 8px;
 }
-
-/* LABEL ON BORDER */
 
 .vision-label {
   position: absolute;
   top: -20px;
   left: 30px;
-
-  background-color: #47587f;   /* same as panel color */
+  background-color: #47587f;
   padding: 0 12px;
-
   font-weight: 700;
   font-size: 1.4rem;
   letter-spacing: 1px;
 }
 
 
-/* ======= Goal Section ======= */
+/* ==========================================================
+   HOMEPAGE: GOAL SECTION (index.qmd)
+   ========================================================== */
+
 .goal-split {
   position: relative;
   left: 50%;
@@ -657,8 +629,6 @@ html {
   height: 928px;
   display: flex;
 }
-
-/* TEXT SIDE (35%) */
 
 .goal-text {
   flex: 0 0 35%;
@@ -676,12 +646,9 @@ html {
   padding: 50px 40px 40px 40px;
   font-size: 1.3rem;
   line-height: 1.7;
-
   border: 2px solid #f5f5df;
   border-radius: 8px;
 }
-
-/* LABEL */
 
 .goal-label {
   position: absolute;
@@ -693,8 +660,6 @@ html {
   font-size: 1.4rem;
   letter-spacing: 1px;
 }
-
-/* IMAGE SIDE (65%) */
 
 .goal-image {
   flex: 0 0 65%;
@@ -708,8 +673,6 @@ html {
   display: block;
 }
 
-/* FADE FROM IMAGE INTO TAN (LEFTWARD) */
-
 .goal-image::after {
   content: "";
   position: absolute;
@@ -717,7 +680,6 @@ html {
   left: 0;
   height: 100%;
   width: 800px;
-
   background: linear-gradient(
     to left,
     rgba(71, 88, 127, 0) 0%,
@@ -725,7 +687,6 @@ html {
     rgba(71, 88, 127, 0.6) 75%,
     #47587f 100%
   );
-
   pointer-events: none;
 }
 
@@ -746,34 +707,27 @@ html {
   z-index: 3;
 }
 
-.goal-split::before {
-  content: "";
-  position: absolute;
-  bottom: -100px;       /* sits exactly at the boundary */
-  left: 0;
-  width: 100%;
-  height: 10px;        /* thin animated line */
-  background: linear-gradient(
-    90deg,
-    #005a2f,
-    #6CA389,
-    #f5f5df,
-    #a4562a,
-    #68473a,
-    #47587f,
-    #2393C3,
-    #c3f2ff,
-    #005a2f
-  );
-  background-size: 300% 100%;
-  animation: snakeBorder 7s linear infinite;
-  z-index: 5;         /* higher than fade */
+
+/* ==========================================================
+   SHARED ANIMATION (Used by buttons + dividers)
+   ========================================================== */
+
+@keyframes snakeBorder {
+  from {
+    background-position: 0% 50%;
+  }
+  to {
+    background-position: 400% 50%;
+  }
 }
 
-/* ======= Tile Section on Homepage ======= */
+
+/* ==========================================================
+   HOMEPAGE: TILE GRID (index.qmd)
+   ========================================================== */
 
 .grid {
-  position: relative;   /* add this */
+  position: relative;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
@@ -800,7 +754,7 @@ html {
   color: white;
 }
 
-/* image */
+/* Tile background image */
 .tile-img {
   position: absolute;
   width: 100%;
@@ -811,7 +765,7 @@ html {
   transition: transform 0.6s ease;
 }
 
-/* overlay */
+/* Tile overlay */
 .tile::after {
   content: "";
   position: absolute;
@@ -820,7 +774,7 @@ html {
   transition: background 0.4s ease;
 }
 
-/* hover animation */
+/* Tile hover */
 .tile:hover {
   transform: translateY(-8px) scale(1.2);
   box-shadow: 0 25px 50px rgba(71, 88, 127, 0.6);
@@ -834,7 +788,7 @@ html {
   background: rgba(71, 88, 127, 0.6);
 }
 
-/* text */
+/* Tile text */
 .tile-content {
   position: relative;
   z-index: 3;
@@ -847,7 +801,7 @@ html {
   max-width: 85%;
   margin: 0 auto;
 
-  color:#f5f5df !important;
+  color: #f5f5df !important;
   white-space: normal;
   overflow-wrap: anywhere;
   word-break: normal;
@@ -855,15 +809,14 @@ html {
   font-weight: 600;
 }
 
+/* Tile section bottom divider */
 .grid::after {
   content: "";
   position: absolute;
   bottom: -35px;
-
   left: 50%;
   margin-left: -50vw;
   width: 100vw;
-
   height: 10px;
 
   background: linear-gradient(
@@ -884,9 +837,10 @@ html {
 }
 
 
-/* ======= Titles in all pages ======= */
+/* ==========================================================
+   PAGE TITLE (ALL PAGES)
+   ========================================================== */
 
-/* Center page title */
 .quarto-title h1 {
   text-align: center;
   position: relative;
@@ -896,13 +850,10 @@ html {
   margin-bottom: 3rem;
 }
 
-/* Space below page title (all pages) */
 #quarto-content .quarto-title {
-  margin-bottom: 3rem;   /* adjust as needed */
+  margin-bottom: 3rem;
 }
 
-
-/* Snake underline */
 .quarto-title h1::after {
   content: "";
   position: absolute;
@@ -929,19 +880,19 @@ html {
   animation: snakeBorder 8s linear infinite;
 }
 
-/* Reuse existing animation */
-@keyframes snakeBorder {
-  from {
-    background-position: 0% 50%;
-  }
-  to {
-    background-position: 300% 50%;
-  }
+
+/* ==========================================================
+   MEMBERS PAGE (members.qmd + member profile pages)
+   ========================================================== */
+
+/* Section divider lines (members + bylaws) */
+.members-page h2:not(#TOC h2),
+.bylaws-page h2:not(#TOC h2) {
+  border-bottom: 2px solid #a4562a !important;
+  padding-bottom: 0.6rem;
 }
 
-
-/* ======= Memberpage content block ======= */
-
+/* Member info block */
 .member-info {
   position: relative;
   padding: 1rem;
@@ -950,29 +901,27 @@ html {
   text-align: center;
 }
 
-/* Remove space above name */
+/* Member name heading */
 .member-info h3 {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0.4rem;
 }
 
-/* Role line (bold line under name) */
+/* Member role line */
 .member-info strong {
   display: block;
   margin-bottom: 0.5rem;
 }
 
-/* Description text smaller */
+/* Member description text */
 .member-info p {
   font-size: 0.95rem;
   line-height: 1.5;
   margin-bottom: 0.3rem;
 }
 
-
-/* ===== MEMBER GRID ===== */
-
+/* Member grid layout */
 .member-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -980,9 +929,7 @@ html {
   margin-top: 3rem;
 }
 
-
-/* ===== MEMBER CARD ===== */
-
+/* Member card container */
 .member-card {
   position: relative;
   border-radius: 18px;
@@ -992,9 +939,7 @@ html {
   transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 
-
-/* ===== IMAGE ===== */
-
+/* Member photo */
 .member-photo {
   width: 100%;
   height: 320px;
@@ -1002,12 +947,10 @@ html {
   transition: transform 0.6s ease;
   position: relative;
   z-index: 1;
-  display: block;   /* removes small image bottom gap */
+  display: block;
 }
 
-
-/* ===== SEE BIO OVERLAY ===== */
-
+/* Bio overlay */
 .member-card::after {
   content: "See Bio";
   position: absolute;
@@ -1029,9 +972,7 @@ html {
   opacity: 1;
 }
 
-
-/* ===== HOVER ANIMATION ===== */
-
+/* Member card hover */
 .member-card:hover {
   transform: translateY(-8px) scale(1.04);
   box-shadow: 0 25px 50px rgba(71, 88, 127, 0.25);
@@ -1041,18 +982,14 @@ html {
   transform: scale(1.1);
 }
 
-
-/* ===== CLICKABLE CARD LINK ===== */
-
+/* Clickable overlay link */
 .member-card .card-link {
   position: absolute;
   inset: 0;
   z-index: 3;
 }
 
-
-/* ===== ALUMNI RIBBON ===== */
-
+/* Alumni ribbon */
 .member-card.alumni::before {
   content: "Alumni";
   position: absolute;
@@ -1071,8 +1008,7 @@ html {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 
-/* ===== PROFILE BIO PAGE PHOTO ===== */
-
+/* Profile bio page photo */
 .profile-photo {
   text-align: center;
   margin-bottom: 2rem;
@@ -1087,34 +1023,11 @@ html {
 }
 
 
-/* ===== SECTION DIVIDER ===== */
+/* ==========================================================
+   EVENTS PAGES (calendar.qmd, events.qmd)
+   ========================================================== */
 
-.members-page h2,
-.bylaws-page h2 {
-  border-bottom: 2px solid #a4562a !important;
-  padding-bottom: 0.6rem;
-}
-
-
-/* =========================
-   SECTION DIVIDEDR
-   ========================= */
-.members-page h2 {
-  border-bottom: 2px solid #a4562a !important;
-  padding-bottom: 0.6rem;
-}
-
-
-.bylaws-page h2 {
-  border-bottom: 2px solid #a4562a !important;
-  padding-bottom: 0.6rem;
-}
-
-
-/* =========================
-   EVENTS PAGE
-   ========================= */
-   
+/* Calendar containers */
 .calendar-container {
   max-width: 1000px;
   margin: 2rem auto;
@@ -1129,41 +1042,197 @@ html {
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.08);
 }
 
-.calendar-page h2,
-.upcomingevents-page h2,
-.pastevents-page h2 {
+/* Section divider lines (events) */
+.calendar-page h2:not(#TOC h2),
+.upcomingevents-page h2:not(#TOC h2),
+.pastevents-page h2:not(#TOC h2) {
   border-bottom: 2px solid #a4562a !important;
   padding-bottom: 0.6rem;
 }
 
-/* =========================
-   CONTACT PAGE
-   ========================= */
+/* Events grid */
+.event-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 2.5rem;
+}
 
-.contact-page h2 {
-  border-bottom: 2px solid #a4562a !important;
+/* Event card */
+.event-card {
+  position: relative;
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 1.8rem;
+  box-shadow: 0 15px 40px rgba(71, 88, 127, 0.08);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  overflow: hidden;
+}
+
+.event-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 25px 55px rgba(71, 88, 127, 0.18);
+}
+
+/* Event ribbons */
+.event-card.confirmed::before,
+.event-card.completed::before,
+.event-card.in-progress::before {
+  position: absolute;
+  top: 20px;
+  right: -55px;
+  width: 190px;
+  padding: 6px 0;
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  transform: rotate(45deg);
+  z-index: 3;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.25);
+}
+
+.event-card.confirmed::before {
+  content: "Confirmed";
+  background: #005a2f;
+}
+
+.event-card.in-progress::before {
+  content: "In Progress";
+  background: #a4562a;
+}
+
+.event-card.completed::before {
+  content: "Completed";
+  background: #2393C3;
+}
+
+/* Event card content */
+.event-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-size: 1.3rem;
+  color: #47587f;
+}
+
+.event-card strong {
+  display: inline-block;
+  margin-bottom: 0.6rem;
+  color: #a4562a;
+}
+
+.event-card p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Flyer button (events) */
+.flyer-btn {
+  position: relative;
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #373a3c;
+  border-radius: 30px;
+  background: transparent;
+  z-index: 0;
+  margin-top: 20px;
+}
+
+.flyer-btn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 30px;
+  padding: 4px;
+
+  background: linear-gradient(
+    90deg,
+    #005a2f,
+    #6CA389,
+    #f5f5df,
+    #a4562a,
+    #68473a,
+    #47587f,
+    #2393C3,
+    #c3f2ff,
+    #005a2f
+  );
+
+  background-size: 400% 100%;
+  animation: snakeBorder 8s linear infinite;
+
+  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  mask-composite: exclude;
+  -webkit-mask-composite: xor;
+
+  z-index: -1;
+}
+
+/* ==========================================================
+   GALLERY PAGE (gallery.qmd)
+   ========================================================== */
+   .gallery-page h2:not(#TOC h2) {
+  border-bottom: 2px solid #a4562a;
   padding-bottom: 0.6rem;
 }
 
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 14px;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  cursor: pointer;
+}
+
+.gallery-grid img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 20px 45px rgba(71, 88, 127, 0.25);
+}
+
+/* ==========================================================
+   CONTACT PAGE (contact.qmd)
+   ========================================================== */
+
+/* Contact page section divider lines */
+.contact-page h2:not(#TOC h2) {
+  border-bottom: 2px solid #a4562a;
+  padding-bottom: 0.6rem;
+}
+
+/* Contact container */
 .contact-container {
   max-width: 1000px;
   margin: 3rem auto;
 }
 
+/* Contact form layout */
 .contact-form {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
 }
 
-/* Top row */
+/* Contact form top row */
 .form-row {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
 
-/* Inputs */
+/* Contact inputs */
 .contact-form input,
 .contact-form textarea {
   width: 100%;
@@ -1179,26 +1248,64 @@ html {
   resize: vertical;
 }
 
-/* Button */
-.contact-submit {
-  text-align: left;
+/* Contact submit button wrapper */
+.contact-btn-wrapper {
+  margin-top: 2rem;
+  text-align: center;
 }
 
-.contact-submit button {
-  padding: 0.7rem 1.5rem;
-  background: #ffffff;
-  border: 2px solid #444;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: 0.3s ease;
+/* contact button */
+.contact-btn {
+  position: relative;
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #373a3c;
+  border-radius: 30px;
+  background: transparent;
+  z-index: 0;
 }
 
-.contact-submit button:hover {
-  background: #444;
-  color: #ffffff;
+/* snake border */
+.contact-btn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 30px;
+  padding: 4px;
+
+  background: linear-gradient(
+    90deg,
+    #005a2f,
+    #6CA389,
+    #f5f5df,
+    #a4562a,
+    #68473a,
+    #47587f,
+    #2393C3,
+    #c3f2ff,
+    #005a2f
+  );
+
+  background-size: 400% 100%;
+  animation: snakeBorder 8s linear infinite;
+
+  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  mask-composite: exclude;
+  -webkit-mask-composite: xor;
+
+  z-index: -1;
 }
 
-/* Responsive */
+/* contact  hover */
+.contact-btn:hover {
+  transform: translateY(-5px);
+  transition: 0.4s ease;
+}
+
+/* Contact page responsive layout */
 @media (max-width: 900px) {
   .form-row {
     grid-template-columns: 1fr;
@@ -1206,7 +1313,9 @@ html {
 }
 
 
-/* ===== Footer ===== */
+/* ==========================================================
+   FOOTER (ALL PAGES)
+   ========================================================== */
 
 footer,
 .footer,
@@ -1221,6 +1330,3 @@ footer a,
   font-size: 1.1rem !important;
   font-weight: 500px;
 }
-
-
-

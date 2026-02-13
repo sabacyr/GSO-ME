@@ -111,7 +111,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 :::
 
 ::: {.tile}
-<a href="upcoming-events.qmd">
+<a href="events.qmd">
   <img src="Images/Tiles/Events.png" class="tile-img" alt="Events">
   <div class="tile-content">Want to know more about our upcoming events?</div>
 </a>

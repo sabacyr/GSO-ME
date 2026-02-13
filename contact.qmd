@@ -27,7 +27,7 @@ body-classes: contact-page
 
   <textarea name="message" placeholder="Your Message *" required></textarea>
 
-  <div class="contact-submit">
+  <div class="contact-btn">
     <button type="submit">Send Message</button>
   </div>
 
