@@ -1,31 +1,64 @@
 ---
 title: "Gallery"
 page-layout: full
+lightbox: auto
+title-block-banner: true
+echo: false
 body-classes: gallery-page
-lightbox: true
+toc: false
 ---
 
-## XC Ski Day — February 2026
+## Fieldwork & Events
 
 ::: {.gallery-grid}
 
-![](Images/Gallery/XC-Ski/xc1.jpg)
-![](Images/Gallery/XC-Ski/xc2.jpg)
-![](Images/Gallery/XC-Ski/xc3.jpg)
-![](Images/Gallery/XC-Ski/xc4.jpg)
+![Saba Fieldwork 1](Images/Gallery/Saba Fieldwork 1.JPG){group="gso"}
+![GeoCongress 2025](Images/Gallery/GeoCongress2025.JPG){group="gso"}
+![ASCE Maine Section](Images/Gallery/ASCE Maine Section.jpg){group="gso"}
+![GeoCon Members photo 1](Images/Gallery/GeoCon Members photo 1.jpg){group="gso"}
+![First Executive Board](Images/Gallery/First Executive Board.jpg){group="gso"}
+![Saba Fieldwork 2](Images/Gallery/Saba Fieldwork 2.jpeg){group="gso"}
+
+![Graduation Social 1](Images/Gallery/Graduation Social 1.JPEG){group="gso"}
+![Andres Fieldwork 1](Images/Gallery/Andres Fieldwork 1.jpeg){group="gso"}
+![Andres Fieldwork 2](Images/Gallery/Andres Fieldwork 2.jpg){group="gso"}
+![Andres Fieldwork 3](Images/Gallery/Andres Fieldwork 3.jpg){group="gso"}
+![Saba Fieldwork 3](Images/Gallery/Saba Fieldwork 3.jpeg){group="gso"}
+![Saba Fieldwork 4](Images/Gallery/Saba Fieldwork 4.jpeg){group="gso"}
+
+![Christmas Lights Social](Images/Gallery/Christmas Lights Social.jpeg){group="gso"}
+![Babak Fieldwork 1](Images/Gallery/Babak Fieldwork 1.JPG){group="gso"}
+![Saba Fieldwork 5](Images/Gallery/Saba Fieldwork 5.jpeg){group="gso"}
+![Saba Fieldwork 6](Images/Gallery/Saba Fieldwork 6.jpeg){group="gso"}
+![Seaboard 1](Images/Gallery/Seaboard 1.jpg){group="gso"}
+![BBQ Social 1](Images/Gallery/BBQ Social 1.jpg){group="gso"}
+
+![Tufts 1](Images/Gallery/Tufts 1.jpg){group="gso"}
+![BBQ Social 2](Images/Gallery/BBQ Social 2.jpg){group="gso"}
+![Belal Fieldwork 1](Images/Gallery/Belal Fieldwork 1.jpg){group="gso"}
+![Temi Fieldwork](Images/Gallery/Temi Fieldwork.jpg){group="gso"}
+![Graduation Social 2](Images/Gallery/Graduation Social 2.jpg){group="gso"}
+![Graduation Social 3](Images/Gallery/Graduation Social 3.jpg){group="gso"}
+
+![Juan Sebastian Fieldwork](Images/Gallery/Juan Sebastian Fieldwork.jpg){group="gso"}
+![End of The Year Social 1](Images/Gallery/End of The Year Social 1.jpg){group="gso"}
+![Recruiter 1](Images/Gallery/Recruiter 1.jpg){group="gso"}
+![Rakesh Fieldwork](Images/Gallery/Rakesh Fieldwork.jpg){group="gso"}
+![GeoCon Members photo 2](Images/Gallery/GeoCon Members photo 2.jpg){group="gso"}
+
+![Graduation Social 4](Images/Gallery/Graduation Social 4.jpg){group="gso"}
+![GeoFrontiers Member 1](Images/Gallery/GeoFrontiers Member 1.jpg){group="gso"}
+![GeoFrontiers Member 2](Images/Gallery/GeoFrontiers Member 2.jpg){group="gso"}
+![Engineering Expo 1](Images/Gallery/Engineering Expo 1.jpg){group="gso"}
+![Geolegends](Images/Gallery/Geolegends.jpg){group="gso"}
+![Saba Fieldwork 7](Images/Gallery/Saba Fieldwork 7.jpeg){group="gso"}
+
+![Temi](Images/Gallery/Temi.jpg){group="gso"}
+![Saba Fieldwork 8](Images/Gallery/Saba Fieldwork 8.jpeg){group="gso"}
+![Andres Fieldwork 6](Images/Gallery/Andres Fieldwork 6.jpeg){group="gso"}
+![Saba Fieldwork 9](Images/Gallery/Saba Fieldwork 9.jpeg){group="gso"}
+![Saba Fieldwork 10](Images/Gallery/Saba Fieldwork 10.jpeg){group="gso"}
+![Saba Fieldwork 11](Images/Gallery/Saba Fieldwork 11.jpeg){group="gso"}
+
 
 :::
-
----
-
-## Drone Workshop — Spring 2026
-
-::: {.gallery-grid}
-
-![](Images/Gallery/Drone/drone1.jpg)
-![](Images/Gallery/Drone/drone2.jpg)
-![](Images/Gallery/Drone/drone3.jpg)
-
-:::
-
-

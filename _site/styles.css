@@ -1027,6 +1027,13 @@ html {
    EVENTS PAGES (calendar.qmd, events.qmd)
    ========================================================== */
 
+/* Section divider lines */
+.events-page h2:not(#TOC h2),
+.calendar-page h2:not(#TOC h2) {
+  border-bottom: 2px solid #a4562a !important;
+  padding-bottom: 0.6rem;
+}
+
 /* Calendar containers */
 .calendar-container {
   max-width: 1000px;
@@ -1172,40 +1179,39 @@ html {
   z-index: -1;
 }
 
-/* ==========================================================
-   GALLERY PAGE (gallery.qmd)
-   ========================================================== */
-   .gallery-page h2:not(#TOC h2) {
-  border-bottom: 2px solid #a4562a;
-  padding-bottom: 0.6rem;
-}
+/* =========================
+   GALLERY GRID
+   ========================= */
 
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
-  margin-bottom: 4rem;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.8rem;
+  max-width: 1400px;
+  margin: 3rem auto;
 }
 
 .gallery-grid img {
   width: 100%;
-  height: 260px;
+  height: 300px;
   object-fit: cover;
-  border-radius: 14px;
-  transition: transform 0.35s ease, box-shadow 0.35s ease;
-  cursor: pointer;
+  border-radius: 18px;
+  display: block;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .gallery-grid img:hover {
-  transform: scale(1.05);
-  box-shadow: 0 20px 45px rgba(71, 88, 127, 0.25);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 45px rgba(0,0,0,0.15);
 }
+
+
 
 /* ==========================================================
    DONATE PAGE (donate.qmd)
    ========================================================== */
-   
+
 /* Donate button wrapper */
 .donate-btn-wrapper {
   margin-top: 2rem;
@@ -1321,15 +1327,14 @@ html {
 /* Contact submit button wrapper */
 /* using the same button from donate */
 
-.top-row {
+.name-email-row {
   display: flex;
-  gap: 1.5rem;
+  justify-content: space-between;
 }
 
-.top-row input {
-  flex: 1;
+.name-email-row input {
+  width: 48%;
 }
-
 
 
 /* ==========================================================

@@ -23,7 +23,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 ::: {.about-split .about-margin-button #about}
 
 <div class="about-image">
-  <img src="Images/Gallery Photos/IMG_4867.jpg" alt="GSO members">
+  <img src="Images/Gallery/Tufts 1.jpg" alt="GSO members">
 </div>
 
 <div class="about-text">
@@ -53,7 +53,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 </div>
 
 <div class="mission-image" data-aos="fade-right" data-aos-duration="1800">
-  <img src="Images/Gallery Photos/IMG_4855.jpg" alt="Mission image">
+  <img src="Images/Gallery/GeoCon Members photo 2.jpg" alt="Mission image">
 </div>
 :::
 
@@ -61,7 +61,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 ::: {.vision-split .vision-margin-button #vision}
 
 <div class="vision-image" data-aos="fade-left" data-aos-duration="1800">
-  <img src="Images/Gallery Photos/IMG_4853.jpg" alt="GSO members">
+  <img src="Images/Gallery/Seaboard 1.jpg" alt="GSO members">
 </div>
 
 <div class="vision-text" data-aos="fade-left" data-aos-duration="1800">
@@ -89,7 +89,7 @@ Welcome to Geotechnical Student Organization at The University Of Maine
 </div>
 
 <div class="goal-image" data-aos="fade-right" data-aos-duration="1800">
-  <img src="Images/Gallery Photos/Picture1.jpg" alt="goal image">
+  <img src="Images/Gallery/GeoFrontiers Members Photo 3.jpg" alt="goal image">
 </div>
 
 :::
