@@ -12,11 +12,12 @@ body-classes: events-page
 
 ### Study Sessions
 
-**February 16, 2026 | 02:00 – 03:00 PM**  
+**Every Thursday in Spring 2026 Semester | 01:00 – 03:00 PM**  
 **Location:** 120 Fogler Library  
 
 Open to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions will include FE prep, homework review, and exam preparation.
 
+[View Flyer](Images/Flyers/CIE New Member Seminar.pdf){.flyer-btn}
 :::
 
 ::: {.event-card .confirmed}
@@ -34,7 +35,7 @@ Description of this event.
 
 ### Drone Training Workshop
 
-**Tentative Timeline:** April–May 2026
+**Tentative Timeline: April–May 2026**
 **Location:** University Mall, University of Maine  
 
 Technical seminar on drone applications in geotechnical and coastal engineering will be held 4 weeks prior to the flying workshop. GSO and COPRI will coordinate licensing for participants.
@@ -67,7 +68,7 @@ Data analysis session (1–3 PM). Potential collaboration with S.W. Cole and int
 
 ### Faculty Interview Series
 
-Bi-Monthly spotlight featuring faculty and their research groups. 
+Spotlight featuring faculty and their research groups. 
 
 To be shared on website and social media.
 

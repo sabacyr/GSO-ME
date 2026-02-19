@@ -4,21 +4,24 @@ title: Donate
 
 ## Support the Geotechnical Student Organization
 
-Your donation helps support members directly by funding workshops, professional development events, guest speakers, conference travel, and outreach activities.
+The Geotechnical Student Organization (GSO) provides students with meaningful opportunities to develop technical skills, build professional connections, and engage with the broader geotechnical community. Your support directly enables these experiences and helps sustain the growth of our members as future engineers.
+
+Every contribution strengthens student access to hands-on workshops, industry engagement, and professional advancement.
 
 ## How your donation is used
-- Technical workshops and training
-- Guest speakers and seminars
-- Student travel to conferences
-- Community and outreach events
+Donations support technical workshops and specialized training sessions that expand practical knowledge beyond the classroom. They allow us to invite experienced industry professionals and researchers to speak with students, creating valuable connections between academia and practice. Contributions also help fund student travel to regional and national conferences, where members present research, attend technical sessions, and build professional networks. In addition, donations make it possible to organize outreach initiatives that promote geotechnical engineering within the community and inspire the next generation of engineers.
 
-<div class="donate-cta">
+Your support plays a direct role in shaping these opportunities and sustaining the mission of GSO.
+
+<div class="donate-btn-wrapper">
 
 <form action="https://www.paypal.com/donate" method="post" target="_blank">
   <input type="hidden" name="hosted_button_id" value="PASTE_YOUR_BUTTON_ID_HERE">
-  <button type="submit" class="hero-btn">
-    Donate via PayPal
+  <button type="submit" class="donate-btn">
+    Support GSO
   </button>
 </form>
 
 </div>
+
+

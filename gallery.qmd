@@ -1,5 +1,5 @@
 ---
-title: "gallery"
+title: "Gallery"
 page-layout: full
 body-classes: gallery-page
 lightbox: true

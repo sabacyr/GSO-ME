@@ -1203,6 +1203,76 @@ html {
 }
 
 /* ==========================================================
+   DONATE PAGE (donate.qmd)
+   ========================================================== */
+   
+/* Donate button wrapper */
+.donate-btn-wrapper {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+/* Donate button base */
+.donate-btn {
+  position: relative;
+  display: inline-block;
+  padding: 0.9rem 2.4rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: #2f3133;
+  border-radius: 40px;
+  background: transparent;
+  cursor: pointer;
+  z-index: 0;
+  transition: transform 0.4s ease;
+}
+
+/* Donate animated border */
+.donate-btn::before {
+  content: "";
+  position: absolute;
+  inset: -5px; /* prevents gray edge */
+  border-radius: 40px;
+  padding: 5px;
+
+  background: linear-gradient(
+    90deg,
+    #005a2f,
+    #6CA389,
+    #f5f5df,
+    #a4562a,
+    #68473a,
+    #47587f,
+    #2393C3,
+    #c3f2ff,
+    #005a2f
+  );
+
+  background-size: 400% 100%;
+  animation: donateSnake 6s linear infinite;
+
+  mask: linear-gradient(#000 0 0) content-box,
+        linear-gradient(#000 0 0);
+  mask-composite: exclude;
+  -webkit-mask-composite: xor;
+
+  z-index: -1;
+}
+
+/* Donate hover effect */
+.donate-btn:hover {
+  transform: translateY(-6px);
+}
+
+/* Animation keyframes */
+@keyframes donateSnake {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 400% 50%; }
+}
+
+
+/* ==========================================================
    CONTACT PAGE (contact.qmd)
    ========================================================== */
 
@@ -1249,68 +1319,17 @@ html {
 }
 
 /* Contact submit button wrapper */
-.contact-btn-wrapper {
-  margin-top: 2rem;
-  text-align: center;
+/* using the same button from donate */
+
+.top-row {
+  display: flex;
+  gap: 1.5rem;
 }
 
-/* contact button */
-.contact-btn {
-  position: relative;
-  display: inline-block;
-  padding: 0.8rem 2rem;
-  font-size: 1.2rem;
-  font-weight: 600;
-  text-decoration: none;
-  color: #373a3c;
-  border-radius: 30px;
-  background: transparent;
-  z-index: 0;
+.top-row input {
+  flex: 1;
 }
 
-/* snake border */
-.contact-btn::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: 30px;
-  padding: 4px;
-
-  background: linear-gradient(
-    90deg,
-    #005a2f,
-    #6CA389,
-    #f5f5df,
-    #a4562a,
-    #68473a,
-    #47587f,
-    #2393C3,
-    #c3f2ff,
-    #005a2f
-  );
-
-  background-size: 400% 100%;
-  animation: snakeBorder 8s linear infinite;
-
-  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-  mask-composite: exclude;
-  -webkit-mask-composite: xor;
-
-  z-index: -1;
-}
-
-/* contact  hover */
-.contact-btn:hover {
-  transform: translateY(-5px);
-  transition: 0.4s ease;
-}
-
-/* Contact page responsive layout */
-@media (max-width: 900px) {
-  .form-row {
-    grid-template-columns: 1fr;
-  }
-}
 
 
 /* ==========================================================
