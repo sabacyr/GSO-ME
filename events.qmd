@@ -17,7 +17,7 @@ body-classes: events-page
 
 Open to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions will include FE prep, homework review, and exam preparation.
 
-[View Flyer](Images/Flyers/CIE New Member Seminar.pdf){.flyer-btn}
+[View Flyer](Images/Flyers/Study Session V2.png){.flyer-btn}
 :::
 
 ::: {.event-card .confirmed}
@@ -39,6 +39,8 @@ Description of this event.
 **Location:** University Mall, University of Maine  
 
 Technical seminar on drone applications in geotechnical and coastal engineering will be held 4 weeks prior to the flying workshop. GSO and COPRI will coordinate licensing for participants.
+
+[View Flyer](Images/Flyers/Study Session V2.png){.flyer-btn}
 
 :::
 
@@ -62,6 +64,8 @@ Final construction and demonstration planning underway.
 
 Data analysis session (1–3 PM). Potential collaboration with S.W. Cole and integration with CE 460.
 
+[View Flyer](Images/Flyers/Study Session V2.png){.flyer-btn}
+
 :::
 
 ::: {.event-card .in-progress}
@@ -71,6 +75,8 @@ Data analysis session (1–3 PM). Potential collaboration with S.W. Cole and int
 Spotlight featuring faculty and their research groups. 
 
 To be shared on website and social media.
+
+[View Article](Images/Flyers/Study Session V2.png){.flyer-btn}
 
 :::
 
@@ -92,6 +98,7 @@ Ongoing improvements. Member input and design suggestions welcome.
 Description of this event.
 
 [View Flyer](Images/Flyers/CIE New Member Seminar.pdf){.flyer-btn}
+
 :::
 
 ::: {.event-card .completed}
@@ -118,14 +125,14 @@ Description of this event.
 
 ::: {.event-card .completed}
 
-### Geo-Conneticut Conference 2025
+### Geo-Conneticut Conference 2024
 
 **September 26, 2025 | 09:00 AM - 04:00 PM**  
 **Location:** Sheraton Hartford South, Rocky Hill, Connecticut
 
 Description of this event.
 
-[View Article](Images/Flyers/CIE New Member Seminar.pdf){.flyer-btn}
+[View Article](https://www.readgeo.com/geostrata/december_2024_january_2025/MobilePagedArticle.action?articleId=2026615#articleId2026615){.flyer-btn}
 
 :::
 

@@ -1,0 +1,13 @@
+---
+title: "GSO at Engineering Expo 2026"
+date: 2026-02-15
+categories: [Events, Outreach]
+description: "GSO members showcased research at the Engineering Expo."
+image: Images/Gallery/Engineering Expo 1.jpg
+---
+
+![](Images/Gallery/Engineering Expo 1.jpg)
+
+GSO members participated in the 2026 Engineering Expo, presenting demonstrations and engaging with students across campus.
+
+The event strengthened connections between geotechnical engineering and the broader engineering community.

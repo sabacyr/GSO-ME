@@ -43,4 +43,6 @@ format:
               });
             });
           </script>
+      - text: |
+          <script src="slideshow.js"></script>
 

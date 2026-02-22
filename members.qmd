@@ -48,11 +48,11 @@ GSO also creates a supportive and inclusive environment where students can build
 
 <a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
 
-![](Images/Members/saba-cyr.jpg){.saba-cyr-photo}
+![](Images/Members/saba-cyr1.jpg){.saba-cyr-photo}
 
 ::: {.member-info}
 
-### Saba Cyr, BSc., E.I.T
+### Saba Cyr, BSc.
 **Past President (Jan 2023–Jan 2025)**
 
 :::
@@ -84,11 +84,11 @@ GSO also creates a supportive and inclusive environment where students can build
 
 <a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
 
-![](Images/Members/saba-cyr.jpg){.saba-cyr}
+![](Images/Members/saba-cyr1.jpg){.saba-cyr}
 
 ::: {.member-info}
 
-### Saba Cyr, BSc., E.I.T
+### Saba Cyr, BSc.
 **Vice President (Jul 2025–Present)**
 
 :::
@@ -111,6 +111,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Andres Cordoba Ordonez, MSc.
 **Ph.D. Student**
+Ground Improvement (?)
 
 :::
 
@@ -126,6 +127,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Zeynab Nazari, MSc.
 **Ph.D. Student**
+Pavement Assesment (?)
 
 :::
 
@@ -135,12 +137,13 @@ GSO also creates a supportive and inclusive environment where students can build
 
 <a class="card-link" href="members/saba-cyr.html" aria-label="Saba Cyr profile" target="_blank" rel="noopener"></a>
 
-![](Images/Members/saba-cyr.jpg){.saba-cyr}
+![](Images/Members/saba-cyr1.jpg){.saba-cyr}
 
 ::: {.member-info}
 
-### Saba Cyr, BSc., E.I.T
+### Saba Cyr, BSc.
 **Ph.D. Candidate**
+Landslides & Natural Hazards
 
 :::
 
@@ -156,6 +159,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Johan Mira, BSc.
 **MSc. Student**
+Retaining Walls (?)
 
 :::
 
@@ -171,6 +175,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Temitope Omokinde, MSc., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -185,7 +190,8 @@ GSO also creates a supportive and inclusive environment where students can build
 ::: {.member-info}
 
 ### Anthony Flores, MSc., E.I.T
-**Geotechnical Engineer**
+**Structural Engineer**
+Bridge Design (?)
 
 :::
 
@@ -201,6 +207,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Danilo Botero Lopez, Ph.D., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -216,6 +223,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Paula Sarmiento Robles, BSc.
 **Ph.D. Student**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -231,6 +239,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Sebastian Carvajal, MSc., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -246,6 +255,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Andres Espinosa, MSc., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -261,6 +271,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Camilo Fernandez, MSc., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -276,6 +287,23 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Rakesh Pandit, MSc., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
+
+:::
+
+:::
+
+::: {.member-card .alumni}
+
+<a class="card-link" href="members/aidan-cadogan.html" aria-label="Aidan Cadogan profile" target="_blank" rel="noopener"></a>
+
+![](Images/Members/aidan-cadogan.jpg){.aidan-cadogan-photo}
+
+::: {.member-info}
+
+### Aidan Cadogan, MSc., E.I.T
+**Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -291,6 +319,23 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### Abdul Aziz Umar, MSc., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
+
+:::
+
+:::
+
+::: {.member-card}
+
+<a class="card-link" href="members/georgia-doore.html" aria-label="Peta Fifield profile" target="_blank" rel="noopener"></a>
+
+![](Images/Members/georgia-doore.jpg){.georgia-doore-photo}
+
+::: {.member-info}
+
+### Georgia Doore
+**BSc. in Civil Engineering**
+
 
 :::
 
@@ -298,29 +343,15 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ::: {.member-card .alumni}
 
-<a class="card-link" href="members/peta-fifield.html" aria-label="Peta Fifield profile" target="_blank" rel="noopener"></a>
+<a class="card-link" href="members/babak-mahmoodi.html" aria-label="Babak Mahmoodi profile" target="_blank" rel="noopener"></a>
 
-![](Images/Members/peta-fifield.jpg){.peta-fifield-photo}
-
-::: {.member-info}
-
-### Peta Fifield, MSc., E.I.T
-**Geotechnical Engineer**
-
-:::
-
-:::
-
-::: {.member-card .alumni}
-
-<a class="card-link" href="members/babak-mahmoudi.html" aria-label="Babak Mahmoudi profile" target="_blank" rel="noopener"></a>
-
-![](Images/Members/babak-mahmoudi.jpg){.babak-mahmoudi-photo}
+![](Images/Members/babak-mahmoodi.jpg){.babak-mahmoodi-photo}
 
 ::: {.member-info}
 
-### Babak Mahmoudi, Ph.D., E.I.T
+### Babak Mahmoodi, Ph.D., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 
@@ -336,6 +367,7 @@ GSO also creates a supportive and inclusive environment where students can build
 
 ### SK Belal Hossen, Ph.D., E.I.T
 **Geotechnical Engineer**
+WHAT IS THEIR AREA OF EXPERTISE
 
 :::
 

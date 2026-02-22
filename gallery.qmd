@@ -1,64 +1,52 @@
 ---
 title: "Gallery"
 page-layout: full
-lightbox: auto
-title-block-banner: true
-echo: false
 body-classes: gallery-page
-toc: false
 ---
 
-## Fieldwork & Events
+::: {.slideshow}
 
-::: {.gallery-grid}
-
-![Saba Fieldwork 1](Images/Gallery/Saba Fieldwork 1.JPG){group="gso"}
-![GeoCongress 2025](Images/Gallery/GeoCongress2025.JPG){group="gso"}
-![ASCE Maine Section](Images/Gallery/ASCE Maine Section.jpg){group="gso"}
-![GeoCon Members photo 1](Images/Gallery/GeoCon Members photo 1.jpg){group="gso"}
-![First Executive Board](Images/Gallery/First Executive Board.jpg){group="gso"}
-![Saba Fieldwork 2](Images/Gallery/Saba Fieldwork 2.jpeg){group="gso"}
-
-![Graduation Social 1](Images/Gallery/Graduation Social 1.JPEG){group="gso"}
-![Andres Fieldwork 1](Images/Gallery/Andres Fieldwork 1.jpeg){group="gso"}
-![Andres Fieldwork 2](Images/Gallery/Andres Fieldwork 2.jpg){group="gso"}
-![Andres Fieldwork 3](Images/Gallery/Andres Fieldwork 3.jpg){group="gso"}
-![Saba Fieldwork 3](Images/Gallery/Saba Fieldwork 3.jpeg){group="gso"}
-![Saba Fieldwork 4](Images/Gallery/Saba Fieldwork 4.jpeg){group="gso"}
-
-![Christmas Lights Social](Images/Gallery/Christmas Lights Social.jpeg){group="gso"}
-![Babak Fieldwork 1](Images/Gallery/Babak Fieldwork 1.JPG){group="gso"}
-![Saba Fieldwork 5](Images/Gallery/Saba Fieldwork 5.jpeg){group="gso"}
-![Saba Fieldwork 6](Images/Gallery/Saba Fieldwork 6.jpeg){group="gso"}
-![Seaboard 1](Images/Gallery/Seaboard 1.jpg){group="gso"}
-![BBQ Social 1](Images/Gallery/BBQ Social 1.jpg){group="gso"}
-
-![Tufts 1](Images/Gallery/Tufts 1.jpg){group="gso"}
-![BBQ Social 2](Images/Gallery/BBQ Social 2.jpg){group="gso"}
-![Belal Fieldwork 1](Images/Gallery/Belal Fieldwork 1.jpg){group="gso"}
-![Temi Fieldwork](Images/Gallery/Temi Fieldwork.jpg){group="gso"}
-![Graduation Social 2](Images/Gallery/Graduation Social 2.jpg){group="gso"}
-![Graduation Social 3](Images/Gallery/Graduation Social 3.jpg){group="gso"}
-
-![Juan Sebastian Fieldwork](Images/Gallery/Juan Sebastian Fieldwork.jpg){group="gso"}
-![End of The Year Social 1](Images/Gallery/End of The Year Social 1.jpg){group="gso"}
-![Recruiter 1](Images/Gallery/Recruiter 1.jpg){group="gso"}
-![Rakesh Fieldwork](Images/Gallery/Rakesh Fieldwork.jpg){group="gso"}
-![GeoCon Members photo 2](Images/Gallery/GeoCon Members photo 2.jpg){group="gso"}
-
-![Graduation Social 4](Images/Gallery/Graduation Social 4.jpg){group="gso"}
-![GeoFrontiers Member 1](Images/Gallery/GeoFrontiers Member 1.jpg){group="gso"}
-![GeoFrontiers Member 2](Images/Gallery/GeoFrontiers Member 2.jpg){group="gso"}
-![Engineering Expo 1](Images/Gallery/Engineering Expo 1.jpg){group="gso"}
-![Geolegends](Images/Gallery/Geolegends.jpg){group="gso"}
-![Saba Fieldwork 7](Images/Gallery/Saba Fieldwork 7.jpeg){group="gso"}
-
-![Temi](Images/Gallery/Temi.jpg){group="gso"}
-![Saba Fieldwork 8](Images/Gallery/Saba Fieldwork 8.jpeg){group="gso"}
-![Andres Fieldwork 6](Images/Gallery/Andres Fieldwork 6.jpeg){group="gso"}
-![Saba Fieldwork 9](Images/Gallery/Saba Fieldwork 9.jpeg){group="gso"}
-![Saba Fieldwork 10](Images/Gallery/Saba Fieldwork 10.jpeg){group="gso"}
-![Saba Fieldwork 11](Images/Gallery/Saba Fieldwork 11.jpeg){group="gso"}
-
+![](Images/Gallery/Andres Fieldwork 1.jpeg){.slide .active}
+![](Images/Gallery/Andres Fieldwork 2.jpg){.slide}
+![](Images/Gallery/Andres Fieldwork 3.jpg){.slide}
+![](Images/Gallery/Andres Fieldwork 6.jpeg){.slide}
+![](Images/Gallery/ASCE Maine Section Meeting.JPG){.slide}
+![](Images/Gallery/Babak Fieldwork 1.JPG){.slide}
+![](Images/Gallery/BBQ Social 1.jpg){.slide}
+![](Images/Gallery/BBQ Social 2.jpg){.slide}
+![](Images/Gallery/Belal Fieldwork 1.jpg){.slide}
+![](Images/Gallery/Christmas Lights Social.jpeg){.slide}
+![](Images/Gallery/End of The Yeat Social 1.jpg){.slide}
+![](Images/Gallery/Engineering Expo 1.jpg){.slide}
+![](Images/Gallery/First Executive Board.jpg){.slide}
+![](Images/Gallery/GeoCon Members photo 1.jpg){.slide}
+![](Images/Gallery/GeoCon Members photo 2.jpg){.slide}
+![](Images/Gallery/GeoCongress2025.JPG){.slide}
+![](Images/Gallery/GeoFrontiers Members Photo 1.jpg){.slide}
+![](Images/Gallery/GeoFrontiers Members Photo 2.jpg){.slide}
+![](Images/Gallery/GeoFrontiers Members Photo 3.jpg){.slide}
+![](Images/Gallery/Geolegends.jpg){.slide}
+![](Images/Gallery/Graduation Social 1.JPEG){.slide}
+![](Images/Gallery/Graduation Social 2.jpg){.slide}
+![](Images/Gallery/Graduation Social 3.jpg){.slide}
+![](Images/Gallery/Graduation Social 4.jpg){.slide}
+![](Images/Gallery/Juan Sebastian Fieldwork.jpg){.slide}
+![](Images/Gallery/Rakesh Fieldwork.jpg){.slide}
+![](Images/Gallery/Recruiter 1.jpg){.slide}
+![](Images/Gallery/Saba Fieldwork 1.JPG){.slide}
+![](Images/Gallery/Saba Fieldwork 2.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 3.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 4.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 5.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 6.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 7.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 8.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 9.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 10.jpeg){.slide}
+![](Images/Gallery/Saba Fieldwork 11.jpeg){.slide}
+![](Images/Gallery/Seaboard 1.jpg){.slide}
+![](Images/Gallery/Temi Fieldwork.jpg){.slide}
+![](Images/Gallery/Temi.jpg){.slide}
+![](Images/Gallery/Tufts 1.jpg){.slide}
 
 :::

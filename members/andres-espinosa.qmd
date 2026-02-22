@@ -1,0 +1,28 @@
+---
+title: "Andres Espinosa"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/andres-espinosa.jpg)
+:::
+
+MSc. Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[Resume](RESUME)
+[LinkedIn](#)
+

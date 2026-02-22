@@ -1,5 +1,8 @@
 ---
 title: Donate
+page-layout: full
+body-classes: donate-page
+toc: false
 ---
 
 ## Support the Geotechnical Student Organization

@@ -1,0 +1,28 @@
+---
+title: "Babak Mahmoudi"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/babak-mahmoodi.jpg)
+:::
+
+PhD in Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[Resume](RESUME)
+[LinkedIn](#)
+

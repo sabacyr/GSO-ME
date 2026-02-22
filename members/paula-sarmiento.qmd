@@ -1,0 +1,28 @@
+---
+title: "Paula Sarmiento Robles"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/paula-sarmiento.jpg)
+:::
+
+PhD Student in Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[LinkedIn](#)
+[Google Scholar](#)
+

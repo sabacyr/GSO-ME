@@ -1,38 +1,66 @@
 [
   {
-    "objectID": "members/rakesh-pandit.html",
-    "href": "members/rakesh-pandit.html",
-    "title": "Rakesh Pandit",
+    "objectID": "members/camilo-fernandez.html",
+    "href": "members/camilo-fernandez.html",
+    "title": "Camilo Fernandez",
     "section": "",
-    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
   },
   {
-    "objectID": "members/andres-cordoba.html",
-    "href": "members/andres-cordoba.html",
-    "title": "Andres Cordoba Ordonez",
+    "objectID": "members/paula-sarmiento.html",
+    "href": "members/paula-sarmiento.html",
+    "title": "Paula Sarmiento Robles",
     "section": "",
     "text": "PhD Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
   },
   {
-    "objectID": "members/sebastian-carvajal.html",
-    "href": "members/sebastian-carvajal.html",
-    "title": "Sebastian Carvajal",
+    "objectID": "members/saba-cyr.html",
+    "href": "members/saba-cyr.html",
+    "title": "Saba Cyr",
     "section": "",
-    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+    "text": "PhD Candidate in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
   },
   {
-    "objectID": "members/zeynab-nazari.html",
-    "href": "members/zeynab-nazari.html",
-    "title": "Zeynab Nazari",
+    "objectID": "members/luis-zambrano.html",
+    "href": "members/luis-zambrano.html",
+    "title": "Luis Zambrano Cruzatty",
+    "section": "",
+    "text": "Ph.D. Geotechnical Engineering, P.E.\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/babak-mahmoodi.html",
+    "href": "members/babak-mahmoodi.html",
+    "title": "Babak Mahmoudi",
+    "section": "",
+    "text": "PhD in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
+  },
+  {
+    "objectID": "members/andres-espinosa.html",
+    "href": "members/andres-espinosa.html",
+    "title": "Andres Espinosa",
+    "section": "",
+    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
+  },
+  {
+    "objectID": "members/abdul-aziz.html",
+    "href": "members/abdul-aziz.html",
+    "title": "Abdul Aziz Umar",
     "section": "",
     "text": "PhD Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
   },
   {
-    "objectID": "members/anthony-flores.html",
-    "href": "members/anthony-flores.html",
-    "title": "Anthony Flores",
+    "objectID": "members/aaron-gallant.html",
+    "href": "members/aaron-gallant.html",
+    "title": "Aaron Gallant",
     "section": "",
-    "text": "MSc. in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+    "text": "Ph.D. Geotechnical Engineering, P.E.\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/johan-mira.html",
+    "href": "members/johan-mira.html",
+    "title": "Johan Mira",
+    "section": "",
+    "text": "MSc Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
   },
   {
     "objectID": "members/danilo-botero.html",
@@ -42,81 +70,32 @@
     "text": "PhD Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Upcoming Events",
+    "objectID": "donate.html",
+    "href": "donate.html",
+    "title": "Donate",
     "section": "",
-    "text": "Every Thursday in Spring 2026 Semester | 01:00 – 03:00 PM\nLocation: 120 Fogler Library\nOpen to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions will include FE prep, homework review, and exam preparation.\nView Flyer\n\n\n\nMarch 9, 2026 | 08:00 AM - 04:00 PM\nLocation: Salt Lake City, Utah, USA\nDescription of this event.\n\n\n\nTentative Timeline: April–May 2026 Location: University Mall, University of Maine\nTechnical seminar on drone applications in geotechnical and coastal engineering will be held 4 weeks prior to the flying workshop. GSO and COPRI will coordinate licensing for participants.\n\n\n\nCompletion by May 2026\nLocation: Advanced Geotechnical Lab, Boardman Hall, University of Maine\nFinal construction and demonstration planning underway.\n\n\n\nSeptember 18, 2026 | 01:00 – 03:00 PM\nLocation: 312 Boardman Hall, University of Maine\nData analysis session (1–3 PM). Potential collaboration with S.W. Cole and integration with CE 460.\n\n\n\nSpotlight featuring faculty and their research groups.\nTo be shared on website and social media.\n\n\n\nOngoing improvements. Member input and design suggestions welcome.\n\n\n\nFebruary 4, 2026 | 03:30 – 05:00 PM\nLocation: 115 Boardman Hall\nDescription of this event.\nView Flyer\n\n\n\nMarch 2-5, 2025 | 09:00 AM - 04:00 PM\nLocation: Kentucky International Convention Center\nDescription of this event.\n\n\n\nMarch 8, 2025 | 09:00 AM - 04:00 PM\nLocation: New Balance Center, University of Maine\nDescription of this event.\n\n\n\nSeptember 26, 2025 | 09:00 AM - 04:00 PM\nLocation: Sheraton Hartford South, Rocky Hill, Connecticut\nDescription of this event.\nView Article\n\n\n\nFebruary 25-27, 2024 | 08:00 AM - 04:00 PM\nLocation: Vancouver, British Columbia, Canada\nDescription of this event.\n\n\n\nOctober 18, 2023 | 11:00 – 12:00 PM\nLocation: 310 Boardman Hall\nDescription of this event.\nView Agenda\n\n\n\nOctober 2023 through January 2024\nLocation: In person and online\nDescription of this event.\nView Flyer\n\n\n\nJuly 7, 2023 | 10:00 - 12:00 PM\nPublished in GEOSTRATA magazine\nDescription of this event.\nView Article"
+    "text": "The Geotechnical Student Organization (GSO) provides students with meaningful opportunities to develop technical skills, build professional connections, and engage with the broader geotechnical community. Your support directly enables these experiences and helps sustain the growth of our members as future engineers.\nEvery contribution strengthens student access to hands-on workshops, industry engagement, and professional advancement."
   },
   {
-    "objectID": "events.html#professional-events",
-    "href": "events.html#professional-events",
-    "title": "Upcoming Events",
+    "objectID": "donate.html#support-the-geotechnical-student-organization",
+    "href": "donate.html#support-the-geotechnical-student-organization",
+    "title": "Donate",
     "section": "",
-    "text": "Every Thursday in Spring 2026 Semester | 01:00 – 03:00 PM\nLocation: 120 Fogler Library\nOpen to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions will include FE prep, homework review, and exam preparation.\nView Flyer\n\n\n\nMarch 9, 2026 | 08:00 AM - 04:00 PM\nLocation: Salt Lake City, Utah, USA\nDescription of this event.\n\n\n\nTentative Timeline: April–May 2026 Location: University Mall, University of Maine\nTechnical seminar on drone applications in geotechnical and coastal engineering will be held 4 weeks prior to the flying workshop. GSO and COPRI will coordinate licensing for participants.\n\n\n\nCompletion by May 2026\nLocation: Advanced Geotechnical Lab, Boardman Hall, University of Maine\nFinal construction and demonstration planning underway.\n\n\n\nSeptember 18, 2026 | 01:00 – 03:00 PM\nLocation: 312 Boardman Hall, University of Maine\nData analysis session (1–3 PM). Potential collaboration with S.W. Cole and integration with CE 460.\n\n\n\nSpotlight featuring faculty and their research groups.\nTo be shared on website and social media.\n\n\n\nOngoing improvements. Member input and design suggestions welcome.\n\n\n\nFebruary 4, 2026 | 03:30 – 05:00 PM\nLocation: 115 Boardman Hall\nDescription of this event.\nView Flyer\n\n\n\nMarch 2-5, 2025 | 09:00 AM - 04:00 PM\nLocation: Kentucky International Convention Center\nDescription of this event.\n\n\n\nMarch 8, 2025 | 09:00 AM - 04:00 PM\nLocation: New Balance Center, University of Maine\nDescription of this event.\n\n\n\nSeptember 26, 2025 | 09:00 AM - 04:00 PM\nLocation: Sheraton Hartford South, Rocky Hill, Connecticut\nDescription of this event.\nView Article\n\n\n\nFebruary 25-27, 2024 | 08:00 AM - 04:00 PM\nLocation: Vancouver, British Columbia, Canada\nDescription of this event.\n\n\n\nOctober 18, 2023 | 11:00 – 12:00 PM\nLocation: 310 Boardman Hall\nDescription of this event.\nView Agenda\n\n\n\nOctober 2023 through January 2024\nLocation: In person and online\nDescription of this event.\nView Flyer\n\n\n\nJuly 7, 2023 | 10:00 - 12:00 PM\nPublished in GEOSTRATA magazine\nDescription of this event.\nView Article"
+    "text": "The Geotechnical Student Organization (GSO) provides students with meaningful opportunities to develop technical skills, build professional connections, and engage with the broader geotechnical community. Your support directly enables these experiences and helps sustain the growth of our members as future engineers.\nEvery contribution strengthens student access to hands-on workshops, industry engagement, and professional advancement."
   },
   {
-    "objectID": "events.html#social-events",
-    "href": "events.html#social-events",
-    "title": "Upcoming Events",
-    "section": "Social Events",
-    "text": "Social Events\n\n\nGSO XC Ski Day\nFebruary 20, 2026 | 2:30 PM\nLocation: Rec Center Trails, University of Maine\nRental: $10\nView Flyer\n\n\nFebruary Happy Hour\nFebruary 20, 2026 | 04:30 PM\nLocation: 2 Hammond Street Canal Side, Bangor, ME\nMonthly happy hour at Barliman’s in Bangor.\n\n\nMarch Happy Hour\nMarch 20, 2026 | 04:30 PM\nLocation: 31 Main St, Orono, ME 04473\nMonthly happy hour at Woodman’s Bar and Grill in downtown Orono.\n\n\nApril Happy Hour\nApril 24, 2026 | 04:30 PM\nLocation: 11 Central St, Bangor, ME 04401\nMonthly happy hour at 11 Central in Bangor.\n\n\nCIE End of Year Celebration\nMay 15, 2026 | 04:00 PM\nLocation: University Mall in front of Boardman Hall, University of Maine\nCollaboration with ASCE, CIE Department, COPRI, and Chi Epsilon.\n\n\nHike & Lunch in Acadia\nMay 23, 2026 | 10:00 AM\nLocation: Seal Harbor, ME 04675\nJordan Pond trail head and doing the Jordan Pond loop followed by lunch at Jordan Pond House.\n\n\nPushaw Dam Paddling\nJune 20, 2026 | 10:00 AM\nLocation: Hirundo Wildlife Refuge, Old Town, ME\nGroup paddle to Pushaw Dam and social gathering.\n\n\nBeach Day\nJuly 24, 2026 | 09:00 AM\nLocation: Ogunquit Beach\nDay trip to Ogunquit Beach. Optional overnight stay depending on group interest.\n\n\nTreworgy Family Orchard\nAugust 15, 2026 | 10:00 AM\nLocation: 3876 Union St, Levant, ME 04456\nVisit to Treworgy orchards including seasonal activities and corn maze.\n\n\nGraduation Social\nMay 10, 2025 | 01:00 PM\nLocation: Shared with attendees.\nDescription of the event\n\n\nGraduation Social\nApril 20, 2024 | 04:00 PM\nLocation: Shared with attendees.\nDescription of the event\n\n\nCIE End of Year Celebration\nApril 15, 2023 | 04:00 PM\nLocation: University Mall in front of Boardman Hall, University of Maine\nCollaboration with ASCE, CIE Department, COPRI, and Chi Epsilon.\n\n\nOpening BBQ Event\nApril 7, 2023 | 05:30 PM\nLocation: The Avenue at Orono Club House\nDescription of the event\n\n\nSpring BBQ\nApril 7, 2023 | 05:30 PM\nLocation: The Avenue at Orono Club House\nDescription of the event\n\n\nFall BBQ\nOctober 10, 2022 | 10:00 AM\nLocation: Shared with attendees.\nDescription of the event"
+    "objectID": "donate.html#how-your-donation-is-used",
+    "href": "donate.html#how-your-donation-is-used",
+    "title": "Donate",
+    "section": "How your donation is used",
+    "text": "How your donation is used\nDonations support technical workshops and specialized training sessions that expand practical knowledge beyond the classroom. They allow us to invite experienced industry professionals and researchers to speak with students, creating valuable connections between academia and practice. Contributions also help fund student travel to regional and national conferences, where members present research, attend technical sessions, and build professional networks. In addition, donations make it possible to organize outreach initiatives that promote geotechnical engineering within the community and inspire the next generation of engineers.\nYour support plays a direct role in shaping these opportunities and sustaining the mission of GSO.\n\n\n  Support GSO"
   },
   {
-    "objectID": "events.html#subscribe-to-our-event-calendar",
-    "href": "events.html#subscribe-to-our-event-calendar",
-    "title": "Upcoming Events",
-    "section": "Subscribe to Our Event Calendar",
-    "text": "Subscribe to Our Event Calendar\nStay updated by subscribing to our shared GSO calendar.\nSubscribe Here"
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Members",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Geotechnical Student Organization",
     "section": "",
-    "text": "Joining the Geotechnical Student Organization (GSO) offers students an opportunity to extend their learning beyond the classroom and engage directly with the field of geotechnical engineering. GSO provides hands on workshops, technical seminars, field experiences, and collaborative events that help bridge the gap between theory and practice. Through these activities, members gain exposure to real world challenges, develop practical skills, and become more confident applying engineering concepts in professional settings.\nGSO also creates a supportive and inclusive environment where students can build meaningful connections with peers, faculty, and industry professionals. By collaborating with organizations such as the Geo Institute of ASCE, COPRI, undergraduate organizations such as ASCE Student Chapter and Chi Epsilon, the Civil Engineering Honor Society, the organization supports participation in conferences, competitions, and professional development events. Whether you are an undergraduate exploring geotechnical engineering or a graduate or undergraduate student refining your expertise, GSO provides a platform to connect, learn, and grow while preparing to become an effective and impactful engineer."
-  },
-  {
-    "objectID": "members.html#join-gso",
-    "href": "members.html#join-gso",
-    "title": "Members",
-    "section": "",
-    "text": "Joining the Geotechnical Student Organization (GSO) offers students an opportunity to extend their learning beyond the classroom and engage directly with the field of geotechnical engineering. GSO provides hands on workshops, technical seminars, field experiences, and collaborative events that help bridge the gap between theory and practice. Through these activities, members gain exposure to real world challenges, develop practical skills, and become more confident applying engineering concepts in professional settings.\nGSO also creates a supportive and inclusive environment where students can build meaningful connections with peers, faculty, and industry professionals. By collaborating with organizations such as the Geo Institute of ASCE, COPRI, undergraduate organizations such as ASCE Student Chapter and Chi Epsilon, the Civil Engineering Honor Society, the organization supports participation in conferences, competitions, and professional development events. Whether you are an undergraduate exploring geotechnical engineering or a graduate or undergraduate student refining your expertise, GSO provides a platform to connect, learn, and grow while preparing to become an effective and impactful engineer."
-  },
-  {
-    "objectID": "members.html#presidency",
-    "href": "members.html#presidency",
-    "title": "Members",
-    "section": "Presidency",
-    "text": "Presidency\n\n\n\n\n\nAndres Cordoba Ordonez, MSc.\nPresident (Jul 2025–Present)\n\n\n\n\n\n\nSebastian Montoya Vargas, Ph.D., E.I.T\nPast President (Jan 2025–Jul 2025)\n\n\n\n\n\n\nSaba Cyr, BSc., E.I.T\nPast President (Jan 2023–Jan 2025)"
-  },
-  {
-    "objectID": "members.html#executive-board",
-    "href": "members.html#executive-board",
-    "title": "Members",
-    "section": "Executive Board",
-    "text": "Executive Board\n\n\n\n\n\nZeynab Nazari, MSc.\nVice President (Jul 2025–Present)\n\n\n\n\n\n\nSaba Cyr, BSc., E.I.T\nVice President (Jul 2025–Present)"
-  },
-  {
-    "objectID": "members.html#members",
-    "href": "members.html#members",
-    "title": "Members",
-    "section": "Members",
-    "text": "Members\n\n\n\n\n\nAndres Cordoba Ordonez, MSc.\nPh.D. Student\n\n\n\n\n\n\nZeynab Nazari, MSc.\nPh.D. Student\n\n\n\n\n\n\nSaba Cyr, BSc., E.I.T\nPh.D. Candidate\n\n\n\n\n\n\nJohan Mira, BSc.\nMSc. Student\n\n\n\n\n\n\nTemitope Omokinde, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nAnthony Flores, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nDanilo Botero Lopez, Ph.D., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nPaula Sarmiento Robles, BSc.\nPh.D. Student\n\n\n\n\n\n\nSebastian Carvajal, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nAndres Espinosa, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nCamilo Fernandez, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nRakesh Pandit, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nAbdul Aziz Umar, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nPeta Fifield, MSc., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nBabak Mahmoudi, Ph.D., E.I.T\nGeotechnical Engineer\n\n\n\n\n\n\nSK Belal Hossen, Ph.D., E.I.T\nGeotechnical Engineer"
-  },
-  {
-    "objectID": "members.html#faculty",
-    "href": "members.html#faculty",
-    "title": "Members",
-    "section": "Faculty",
-    "text": "Faculty\n\n\n\n\n\nAaron Gallant, Ph.D., P.E.\nAssociate Professor\n\n\n\n\n\n\nLuis Zambrano Cruzatty, Ph.D., P.E.\nFormer Assistant Professor"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "Get in Touch\n\n\nHave a question about GSO, workshops, or membership? Send us a message and we’ll get back to you.\n\n\n\n\n \n\n\n\n\nSend Message"
+    "text": "Welcome to Geotechnical Student Organization at The University Of Maine\n\n\nLearn More\n\n\n\n\n\n\n\n\n\nAbout Us\n\nThe Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering.\n\n\n\n\n\n\n\nMission\n\nOur mission is to connect, support, and develop geotechnical engineering students through hands-on learning, professional engagement, and meaningful collaboration, preparing them to become skilled, innovative engineers who contribute to sustainable communities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVision\n\nOur vision is to be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence.\n\n\n\n\n\n\n\nGoal\n\nOur goal is to promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering.\n\n\n\n\n\n\n\n\n \n\nWho are we?\n\n\n\n\n \n\nLooking for workshop materials and presentations?\n\n\n\n\n \n\nWant to know more about our upcoming events?\n\n\n\n\n \n\nTake a look down memory lane!"
   },
   {
     "objectID": "bylaws.html",
@@ -168,46 +147,137 @@
     "text": "ARTICLE XIII: DISSOLUTION\nThe Organization may be dissolved by a two-thirds majority vote of the General Members present at a duly called meeting.\nUpon dissolution, all remaining funds and assets shall be transferred to the University of Maine or a University-recognized organization consistent with the mission. No Individual Member shall receive any portion of the Organization’s assets."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Geotechnical Student Organization",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Upcoming Events",
     "section": "",
-    "text": "Welcome to Geotechnical Student Organization at The University Of Maine\n\n\nLearn More\n\n\n\n\n\n\n\n\n\nAbout Us\n\nThe Geotechnical Student Organization (GSO) is a student-run organization at the University of Maine for undergraduate and graduate students interested in geotechnical engineering.\n\n\n\n\n\n\n\nMission\n\nOur mission is to connect, support, and develop geotechnical engineering students through hands-on learning, professional engagement, and meaningful collaboration, preparing them to become skilled, innovative engineers who contribute to sustainable communities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVision\n\nOur vision is to be a leading student organization that connects geotechnical engineering students with academic and industry partners while providing opportunities for personal and professional growth, innovation, and excellence.\n\n\n\n\n\n\n\nGoal\n\nOur goal is to promote meaningful interaction between students and leading academics, companies, institutes, and professional societies related to geotechnical engineering.\n\n\n\n\n\n\n\n\n \n\nWho are we?\n\n\n\n\n \n\nLooking for workshop materials and presentations?\n\n\n\n\n \n\nWant to know more about our upcoming events?\n\n\n\n\n \n\nTake a look down memory lane!"
+    "text": "Every Thursday in Spring 2026 Semester | 01:00 – 03:00 PM\nLocation: 120 Fogler Library\nOpen to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions will include FE prep, homework review, and exam preparation.\nView Flyer\n\n\n\nMarch 9, 2026 | 08:00 AM - 04:00 PM\nLocation: Salt Lake City, Utah, USA\nDescription of this event.\n\n\n\nTentative Timeline: April–May 2026 Location: University Mall, University of Maine\nTechnical seminar on drone applications in geotechnical and coastal engineering will be held 4 weeks prior to the flying workshop. GSO and COPRI will coordinate licensing for participants.\nView Flyer\n\n\n\nCompletion by May 2026\nLocation: Advanced Geotechnical Lab, Boardman Hall, University of Maine\nFinal construction and demonstration planning underway.\n\n\n\nSeptember 18, 2026 | 01:00 – 03:00 PM\nLocation: 312 Boardman Hall, University of Maine\nData analysis session (1–3 PM). Potential collaboration with S.W. Cole and integration with CE 460.\nView Flyer\n\n\n\nSpotlight featuring faculty and their research groups.\nTo be shared on website and social media.\nView Article\n\n\n\nOngoing improvements. Member input and design suggestions welcome.\n\n\n\nFebruary 4, 2026 | 03:30 – 05:00 PM\nLocation: 115 Boardman Hall\nDescription of this event.\nView Flyer\n\n\n\nMarch 2-5, 2025 | 09:00 AM - 04:00 PM\nLocation: Kentucky International Convention Center\nDescription of this event.\n\n\n\nMarch 8, 2025 | 09:00 AM - 04:00 PM\nLocation: New Balance Center, University of Maine\nDescription of this event.\n\n\n\nSeptember 26, 2025 | 09:00 AM - 04:00 PM\nLocation: Sheraton Hartford South, Rocky Hill, Connecticut\nDescription of this event.\nView Article\n\n\n\nFebruary 25-27, 2024 | 08:00 AM - 04:00 PM\nLocation: Vancouver, British Columbia, Canada\nDescription of this event.\n\n\n\nOctober 18, 2023 | 11:00 – 12:00 PM\nLocation: 310 Boardman Hall\nDescription of this event.\nView Agenda\n\n\n\nOctober 2023 through January 2024\nLocation: In person and online\nDescription of this event.\nView Flyer\n\n\n\nJuly 7, 2023 | 10:00 - 12:00 PM\nPublished in GEOSTRATA magazine\nDescription of this event.\nView Article"
   },
   {
-    "objectID": "donate.html",
-    "href": "donate.html",
-    "title": "Donate",
+    "objectID": "events.html#professional-events",
+    "href": "events.html#professional-events",
+    "title": "Upcoming Events",
     "section": "",
-    "text": "The Geotechnical Student Organization (GSO) provides students with meaningful opportunities to develop technical skills, build professional connections, and engage with the broader geotechnical community. Your support directly enables these experiences and helps sustain the growth of our members as future engineers.\nEvery contribution strengthens student access to hands-on workshops, industry engagement, and professional advancement."
+    "text": "Every Thursday in Spring 2026 Semester | 01:00 – 03:00 PM\nLocation: 120 Fogler Library\nOpen to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions will include FE prep, homework review, and exam preparation.\nView Flyer\n\n\n\nMarch 9, 2026 | 08:00 AM - 04:00 PM\nLocation: Salt Lake City, Utah, USA\nDescription of this event.\n\n\n\nTentative Timeline: April–May 2026 Location: University Mall, University of Maine\nTechnical seminar on drone applications in geotechnical and coastal engineering will be held 4 weeks prior to the flying workshop. GSO and COPRI will coordinate licensing for participants.\nView Flyer\n\n\n\nCompletion by May 2026\nLocation: Advanced Geotechnical Lab, Boardman Hall, University of Maine\nFinal construction and demonstration planning underway.\n\n\n\nSeptember 18, 2026 | 01:00 – 03:00 PM\nLocation: 312 Boardman Hall, University of Maine\nData analysis session (1–3 PM). Potential collaboration with S.W. Cole and integration with CE 460.\nView Flyer\n\n\n\nSpotlight featuring faculty and their research groups.\nTo be shared on website and social media.\nView Article\n\n\n\nOngoing improvements. Member input and design suggestions welcome.\n\n\n\nFebruary 4, 2026 | 03:30 – 05:00 PM\nLocation: 115 Boardman Hall\nDescription of this event.\nView Flyer\n\n\n\nMarch 2-5, 2025 | 09:00 AM - 04:00 PM\nLocation: Kentucky International Convention Center\nDescription of this event.\n\n\n\nMarch 8, 2025 | 09:00 AM - 04:00 PM\nLocation: New Balance Center, University of Maine\nDescription of this event.\n\n\n\nSeptember 26, 2025 | 09:00 AM - 04:00 PM\nLocation: Sheraton Hartford South, Rocky Hill, Connecticut\nDescription of this event.\nView Article\n\n\n\nFebruary 25-27, 2024 | 08:00 AM - 04:00 PM\nLocation: Vancouver, British Columbia, Canada\nDescription of this event.\n\n\n\nOctober 18, 2023 | 11:00 – 12:00 PM\nLocation: 310 Boardman Hall\nDescription of this event.\nView Agenda\n\n\n\nOctober 2023 through January 2024\nLocation: In person and online\nDescription of this event.\nView Flyer\n\n\n\nJuly 7, 2023 | 10:00 - 12:00 PM\nPublished in GEOSTRATA magazine\nDescription of this event.\nView Article"
   },
   {
-    "objectID": "donate.html#support-the-geotechnical-student-organization",
-    "href": "donate.html#support-the-geotechnical-student-organization",
-    "title": "Donate",
-    "section": "",
-    "text": "The Geotechnical Student Organization (GSO) provides students with meaningful opportunities to develop technical skills, build professional connections, and engage with the broader geotechnical community. Your support directly enables these experiences and helps sustain the growth of our members as future engineers.\nEvery contribution strengthens student access to hands-on workshops, industry engagement, and professional advancement."
+    "objectID": "events.html#social-events",
+    "href": "events.html#social-events",
+    "title": "Upcoming Events",
+    "section": "Social Events",
+    "text": "Social Events\n\n\nGSO XC Ski Day\nFebruary 20, 2026 | 2:30 PM\nLocation: Rec Center Trails, University of Maine\nRental: $10\nView Flyer\n\n\nFebruary Happy Hour\nFebruary 20, 2026 | 04:30 PM\nLocation: 2 Hammond Street Canal Side, Bangor, ME\nMonthly happy hour at Barliman’s in Bangor.\n\n\nMarch Happy Hour\nMarch 20, 2026 | 04:30 PM\nLocation: 31 Main St, Orono, ME 04473\nMonthly happy hour at Woodman’s Bar and Grill in downtown Orono.\n\n\nApril Happy Hour\nApril 24, 2026 | 04:30 PM\nLocation: 11 Central St, Bangor, ME 04401\nMonthly happy hour at 11 Central in Bangor.\n\n\nCIE End of Year Celebration\nMay 15, 2026 | 04:00 PM\nLocation: University Mall in front of Boardman Hall, University of Maine\nCollaboration with ASCE, CIE Department, COPRI, and Chi Epsilon.\n\n\nHike & Lunch in Acadia\nMay 23, 2026 | 10:00 AM\nLocation: Seal Harbor, ME 04675\nJordan Pond trail head and doing the Jordan Pond loop followed by lunch at Jordan Pond House.\n\n\nPushaw Dam Paddling\nJune 20, 2026 | 10:00 AM\nLocation: Hirundo Wildlife Refuge, Old Town, ME\nGroup paddle to Pushaw Dam and social gathering.\n\n\nBeach Day\nJuly 24, 2026 | 09:00 AM\nLocation: Ogunquit Beach\nDay trip to Ogunquit Beach. Optional overnight stay depending on group interest.\n\n\nTreworgy Family Orchard\nAugust 15, 2026 | 10:00 AM\nLocation: 3876 Union St, Levant, ME 04456\nVisit to Treworgy orchards including seasonal activities and corn maze.\n\n\nGraduation Social\nMay 10, 2025 | 01:00 PM\nLocation: Shared with attendees.\nDescription of the event\n\n\nGraduation Social\nApril 20, 2024 | 04:00 PM\nLocation: Shared with attendees.\nDescription of the event\n\n\nCIE End of Year Celebration\nApril 15, 2023 | 04:00 PM\nLocation: University Mall in front of Boardman Hall, University of Maine\nCollaboration with ASCE, CIE Department, COPRI, and Chi Epsilon.\n\n\nOpening BBQ Event\nApril 7, 2023 | 05:30 PM\nLocation: The Avenue at Orono Club House\nDescription of the event\n\n\nSpring BBQ\nApril 7, 2023 | 05:30 PM\nLocation: The Avenue at Orono Club House\nDescription of the event\n\n\nFall BBQ\nOctober 10, 2022 | 10:00 AM\nLocation: Shared with attendees.\nDescription of the event"
   },
   {
-    "objectID": "donate.html#how-your-donation-is-used",
-    "href": "donate.html#how-your-donation-is-used",
-    "title": "Donate",
-    "section": "How your donation is used",
-    "text": "How your donation is used\nDonations support technical workshops and specialized training sessions that expand practical knowledge beyond the classroom. They allow us to invite experienced industry professionals and researchers to speak with students, creating valuable connections between academia and practice. Contributions also help fund student travel to regional and national conferences, where members present research, attend technical sessions, and build professional networks. In addition, donations make it possible to organize outreach initiatives that promote geotechnical engineering within the community and inspire the next generation of engineers.\nYour support plays a direct role in shaping these opportunities and sustaining the mission of GSO.\n\n\n  Support GSO"
+    "objectID": "events.html#subscribe-to-our-event-calendar",
+    "href": "events.html#subscribe-to-our-event-calendar",
+    "title": "Upcoming Events",
+    "section": "Subscribe to Our Event Calendar",
+    "text": "Subscribe to Our Event Calendar\nStay updated by subscribing to our shared GSO calendar.\nSubscribe Here"
   },
   {
-    "objectID": "members/johan-mira.html",
-    "href": "members/johan-mira.html",
-    "title": "Johan Mira",
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members",
     "section": "",
-    "text": "MSc Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
+    "text": "Joining the Geotechnical Student Organization (GSO) offers students an opportunity to extend their learning beyond the classroom and engage directly with the field of geotechnical engineering. GSO provides hands on workshops, technical seminars, field experiences, and collaborative events that help bridge the gap between theory and practice. Through these activities, members gain exposure to real world challenges, develop practical skills, and become more confident applying engineering concepts in professional settings.\nGSO also creates a supportive and inclusive environment where students can build meaningful connections with peers, faculty, and industry professionals. By collaborating with organizations such as the Geo Institute of ASCE, COPRI, undergraduate organizations such as ASCE Student Chapter and Chi Epsilon, the Civil Engineering Honor Society, the organization supports participation in conferences, competitions, and professional development events. Whether you are an undergraduate exploring geotechnical engineering or a graduate or undergraduate student refining your expertise, GSO provides a platform to connect, learn, and grow while preparing to become an effective and impactful engineer."
   },
   {
-    "objectID": "members/aaron-gallant.html",
-    "href": "members/aaron-gallant.html",
-    "title": "Aaron Gallant",
+    "objectID": "members.html#join-gso",
+    "href": "members.html#join-gso",
+    "title": "Members",
     "section": "",
-    "text": "Ph.D. Geotechnical Engineering, P.E.\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+    "text": "Joining the Geotechnical Student Organization (GSO) offers students an opportunity to extend their learning beyond the classroom and engage directly with the field of geotechnical engineering. GSO provides hands on workshops, technical seminars, field experiences, and collaborative events that help bridge the gap between theory and practice. Through these activities, members gain exposure to real world challenges, develop practical skills, and become more confident applying engineering concepts in professional settings.\nGSO also creates a supportive and inclusive environment where students can build meaningful connections with peers, faculty, and industry professionals. By collaborating with organizations such as the Geo Institute of ASCE, COPRI, undergraduate organizations such as ASCE Student Chapter and Chi Epsilon, the Civil Engineering Honor Society, the organization supports participation in conferences, competitions, and professional development events. Whether you are an undergraduate exploring geotechnical engineering or a graduate or undergraduate student refining your expertise, GSO provides a platform to connect, learn, and grow while preparing to become an effective and impactful engineer."
+  },
+  {
+    "objectID": "members.html#presidency",
+    "href": "members.html#presidency",
+    "title": "Members",
+    "section": "Presidency",
+    "text": "Presidency\n\n\n\n\n\nAndres Cordoba Ordonez, MSc.\nPresident (Jul 2025–Present)\n\n\n\n\n\n\nSebastian Montoya Vargas, Ph.D., E.I.T\nPast President (Jan 2025–Jul 2025)\n\n\n\n\n\n\nSaba Cyr, BSc.\nPast President (Jan 2023–Jan 2025)"
+  },
+  {
+    "objectID": "members.html#executive-board",
+    "href": "members.html#executive-board",
+    "title": "Members",
+    "section": "Executive Board",
+    "text": "Executive Board\n\n\n\n\n\nZeynab Nazari, MSc.\nVice President (Jul 2025–Present)\n\n\n\n\n\n\nSaba Cyr, BSc.\nVice President (Jul 2025–Present)"
+  },
+  {
+    "objectID": "members.html#members",
+    "href": "members.html#members",
+    "title": "Members",
+    "section": "Members",
+    "text": "Members\n\n\n\n\n\nAndres Cordoba Ordonez, MSc.\nPh.D. Student Ground Improvement (?)\n\n\n\n\n\n\nZeynab Nazari, MSc.\nPh.D. Student Pavement Assesment (?)\n\n\n\n\n\n\nSaba Cyr, BSc.\nPh.D. Candidate Landslides & Natural Hazards\n\n\n\n\n\n\nJohan Mira, BSc.\nMSc. Student Retaining Walls (?)\n\n\n\n\n\n\nTemitope Omokinde, MSc., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nAnthony Flores, MSc., E.I.T\nStructural Engineer Bridge Design (?)\n\n\n\n\n\n\nDanilo Botero Lopez, Ph.D., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nPaula Sarmiento Robles, BSc.\nPh.D. Student WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nSebastian Carvajal, MSc., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nAndres Espinosa, MSc., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nCamilo Fernandez, MSc., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nRakesh Pandit, MSc., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nAidan Cadogan, MSc., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nAbdul Aziz Umar, MSc., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nGeorgia Doore\nBSc. in Civil Engineering\n\n\n\n\n\n\nBabak Mahmoodi, Ph.D., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE\n\n\n\n\n\n\nSK Belal Hossen, Ph.D., E.I.T\nGeotechnical Engineer WHAT IS THEIR AREA OF EXPERTISE"
+  },
+  {
+    "objectID": "members.html#faculty",
+    "href": "members.html#faculty",
+    "title": "Members",
+    "section": "Faculty",
+    "text": "Faculty\n\n\n\n\n\nAaron Gallant, Ph.D., P.E.\nAssociate Professor\n\n\n\n\n\n\nLuis Zambrano Cruzatty, Ph.D., P.E.\nFormer Assistant Professor"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Have a question about GSO, workshops, or membership?\nSend us a message and we’ll get back to you.\n\n\n\n \n\n\n\n\nSend Message"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Have a question about GSO, workshops, or membership?\nSend us a message and we’ll get back to you.\n\n\n\n \n\n\n\n\nSend Message"
+  },
+  {
+    "objectID": "NewsPosts/engineering-expo-2025.html",
+    "href": "NewsPosts/engineering-expo-2025.html",
+    "title": "GSO at Engineering Expo 2026",
+    "section": "",
+    "text": "GSO members participated in the 2026 Engineering Expo, presenting demonstrations and engaging with students across campus.\nThe event strengthened connections between geotechnical engineering and the broader engineering community."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "GSO at Engineering Expo 2026\n\n\n\nEvents\n\nOutreach\n\n\n\nGSO members showcased research at the Engineering Expo.\n\n\n\n\n\nFeb 15, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/georgia-doore.html",
+    "href": "members/georgia-doore.html",
+    "title": "Georgia Doore",
+    "section": "",
+    "text": "BSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/belal-hossen.html",
+    "href": "members/belal-hossen.html",
+    "title": "S.K. Belal Hossen",
+    "section": "",
+    "text": "Ph.D. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/anthony-flores.html",
+    "href": "members/anthony-flores.html",
+    "title": "Anthony Flores",
+    "section": "",
+    "text": "MSc. in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/zeynab-nazari.html",
+    "href": "members/zeynab-nazari.html",
+    "title": "Zeynab Nazari",
+    "section": "",
+    "text": "PhD Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
+  },
+  {
+    "objectID": "members/temitope-omokinde.html",
+    "href": "members/temitope-omokinde.html",
+    "title": "Temitope Omokinde",
+    "section": "",
+    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
   },
   {
     "objectID": "members/sebastian-montoya.html",
@@ -217,17 +287,31 @@
     "text": "PhD Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
   },
   {
-    "objectID": "members/luis-zambrano.html",
-    "href": "members/luis-zambrano.html",
-    "title": "Luis Zambrano Cruzatty",
+    "objectID": "members/sebastian-carvajal.html",
+    "href": "members/sebastian-carvajal.html",
+    "title": "Sebastian Carvajal",
     "section": "",
-    "text": "Ph.D. Geotechnical Engineering, P.E.\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
   },
   {
-    "objectID": "members/saba-cyr.html",
-    "href": "members/saba-cyr.html",
-    "title": "Saba Cyr",
+    "objectID": "members/andres-cordoba.html",
+    "href": "members/andres-cordoba.html",
+    "title": "Andres Cordoba Ordonez",
     "section": "",
-    "text": "PhD Candidate in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
+    "text": "PhD Student in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
+  },
+  {
+    "objectID": "members/aidan-cadogan.html",
+    "href": "members/aidan-cadogan.html",
+    "title": "Aidan Cadogan",
+    "section": "",
+    "text": "M.S. in Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail Resume LinkedIn"
+  },
+  {
+    "objectID": "members/rakesh-pandit.html",
+    "href": "members/rakesh-pandit.html",
+    "title": "Rakesh Pandit",
+    "section": "",
+    "text": "MSc. Geotechnical Engineering\n\nBiography\nDetailed description here.\n\n\nResearch Focus\nDetailed description here.\n\n\nEducation\nDetailed description here.\n\n\nContact\nEmail LinkedIn Google Scholar"
   }
 ]

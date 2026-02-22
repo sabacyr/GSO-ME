@@ -1022,17 +1022,15 @@ html {
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
-
+/* ==========================================================
+   RESOURCES PAGES (resources.qmd)
+   ========================================================== */
+   
+   
+   
 /* ==========================================================
    EVENTS PAGES (calendar.qmd, events.qmd)
    ========================================================== */
-
-/* Section divider lines */
-.events-page h2:not(#TOC h2),
-.calendar-page h2:not(#TOC h2) {
-  border-bottom: 2px solid #a4562a !important;
-  padding-bottom: 0.6rem;
-}
 
 /* Calendar containers */
 .calendar-container {
@@ -1051,8 +1049,7 @@ html {
 
 /* Section divider lines (events) */
 .calendar-page h2:not(#TOC h2),
-.upcomingevents-page h2:not(#TOC h2),
-.pastevents-page h2:not(#TOC h2) {
+.events-page h2:not(#TOC h2) {
   border-bottom: 2px solid #a4562a !important;
   padding-bottom: 0.6rem;
 }
@@ -1179,39 +1176,186 @@ html {
   z-index: -1;
 }
 
-/* =========================
-   GALLERY GRID
-   ========================= */
+/* ==========================================================
+   GALLERY PAGES (gallery.qmd)
+   ========================================================== */
 
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 1.8rem;
-  max-width: 1400px;
+/* SLIDESHOW BASE */
+
+.slideshow {
+  position: relative;
+  max-width: 1100px;
   margin: 3rem auto;
+  overflow: hidden;
+  border-radius: 18px;
 }
 
-.gallery-grid img {
+.slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 1s ease; /* <-- control fade speed here */
   width: 100%;
-  height: 300px;
+  height: 600px;
   object-fit: cover;
   border-radius: 18px;
-  display: block;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  cursor: pointer;
 }
 
-.gallery-grid img:hover {
+.slide.active {
+  opacity: 1;
+  position: relative;
+}
+
+/* FULLSCREEN MODAL */
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.95);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.lightbox.open {
+  display: flex;
+}
+
+.lightbox .image-wrapper {
+  position: relative;
+  max-width: 90vw;
+  max-height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lightbox img {
+  max-width: 100%;
+  max-height: 85vh;
+  object-fit: contain;
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.lightbox img.active {
+  opacity: 1;
+  position: relative;
+}
+
+.lightbox button {
+  position: absolute;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+
+.lightbox .close {
+  top: 25px;
+  right: 35px;
+  font-size: 2rem;
+}
+
+.lightbox .prev {
+  left: 30px;
+}
+
+.lightbox .next {
+  right: 30px;
+}
+
+/* ==========================================================
+   NEWS PAGE LAYOUT FIX
+   ========================================================== */
+
+/* Reduce big spacing under page title */
+.news-page .quarto-title-block {
+  margin-bottom: 1.5rem;
+}
+
+/* Center listing grid and control width */
+.news-page .quarto-listing {
+  max-width: 1100px;
+  margin: 2rem auto;
+}
+
+/* Make grid responsive and centered */
+.news-page .quarto-listing .listing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+}
+
+/* Card styling */
+.news-page .quarto-listing .card {
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.news-page .quarto-listing .card:hover {
   transform: translateY(-6px);
-  box-shadow: 0 20px 45px rgba(0,0,0,0.15);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.12);
 }
 
+/* Make card images fill nicely */
+.news-page .quarto-listing .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
 
+/* Bold titles */
+.news-page .quarto-listing .listing-title {
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+/* Category badge base style */
+.news-page .listing-category {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Custom tag colors */
+.news-page .listing-category[href*="Events"] {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.news-page .listing-category[href*="Outreach"] {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.news-page .listing-category[href*="Workshops"] {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.news-page .listing-category[href*="Conferences"] {
+  background: #f3e8ff;
+  color: #6b21a8;
+}
+
+.news-page .listing-category[href*="Socials"] {
+  background: #dcfce7;
+  color: #166534;
+}
 
 /* ==========================================================
    DONATE PAGE (donate.qmd)
    ========================================================== */
-
+   
 /* Donate button wrapper */
 .donate-btn-wrapper {
   margin-top: 2rem;
@@ -1277,13 +1421,18 @@ html {
   100% { background-position: 400% 50%; }
 }
 
+/* Contact page section divider lines */
+.donate-page h2:not(#TOC h2) {
+  border-bottom: 2px solid #a4562a;
+  padding-bottom: 0.6rem;
+}
 
 /* ==========================================================
    CONTACT PAGE (contact.qmd)
    ========================================================== */
 
 /* Contact page section divider lines */
-.contact-page h2:not(#TOC h2) {
+.contact-page h2 {
   border-bottom: 2px solid #a4562a;
   padding-bottom: 0.6rem;
 }

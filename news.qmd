@@ -1,4 +1,12 @@
 ---
 title: "News"
+page-layout: full
+toc: false
+body-classes: news-page
+listing:
+  contents: NewsPosts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, categories, description, image]
 ---
-

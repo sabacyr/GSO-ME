@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.profile-photo}
-![](../Images/Members/saba-cyr.jpg)
+![](../Images/Members/saba-cyr1.jpg)
 :::
 
 PhD Candidate in Geotechnical Engineering  

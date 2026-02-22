@@ -1,0 +1,28 @@
+---
+title: "Temitope Omokinde"
+page-layout: full
+---
+
+::: {.profile-photo}
+![](../Images/Members/temitope-omokinde.jpg)
+:::
+
+MSc. Geotechnical Engineering  
+
+### Biography
+Detailed description here.
+
+
+### Research Focus
+Detailed description here.
+
+
+### Education
+Detailed description here.
+
+
+### Contact
+[Email](example@maine.edu)
+[LinkedIn](#)
+[Google Scholar](#)
+
