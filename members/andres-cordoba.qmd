@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.profile-photo}
-![](../Images/Members/andres-cordoba.jpg)
+![](Images/Members/andres-cordoba.jpg)
 :::
 
 PhD Student in Geotechnical Engineering  
