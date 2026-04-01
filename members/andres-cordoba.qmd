@@ -1,6 +1,7 @@
 ---
 title: "Andres Cordoba Ordonez"
 page-layout: full
+css: /GSO-ME/styles.css
 ---
 
 ::: {.profile-photo}
