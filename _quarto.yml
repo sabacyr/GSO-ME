@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Geotechnical Student Organization"
+  site-url: "https://sabacyr.github.io/GSO-ME"
   favicon: ../Images/Logo/Diamond.png
   page-footer:
     background: "#47587f"
