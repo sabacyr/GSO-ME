@@ -10,6 +10,17 @@ body-classes: events-page
 
 ::: {.event-card .confirmed}
 
+### ASCE Maine Section 2026
+
+**April 20, 2026 | 08:00 AM - 05:00 PM**  
+**Location:** Auburn, Maine, USA
+
+Description of this event.
+
+:::
+
+::: {.event-card .completed}
+
 ### Study Sessions
 
 **Every Thursday in Spring 2026 Semester | 01:00 – 03:00 PM**  
@@ -20,7 +31,7 @@ Open to graduate students and undergraduates (Chi Epsilon, ASCE). Study sessions
 [View Flyer](Images/Flyers/Study Session V2.png){.flyer-btn}
 :::
 
-::: {.event-card .confirmed}
+::: {.event-card .completed}
 
 ### Geo-Congress Conference 2026
 
