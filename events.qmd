@@ -19,6 +19,19 @@ Description of this event.
 
 :::
 
+::: {.event-card .in-progress}
+
+### UMaine Geotechnical Alumni & Friends Social
+
+**May 29, 2026 | 05:00 PM - 07:00 PM**
+**Location:** 300 Fore Street, First Floor, Portland, ME  
+
+Description of the event
+
+[View Flyer](Images/Flyers/Geotech social.png){.flyer-btn}
+
+:::
+
 ::: {.event-card .completed}
 
 ### Study Sessions
